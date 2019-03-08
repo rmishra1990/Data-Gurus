@@ -1,248 +1,248 @@
-,index,Name,Latitude,Longitude,Street1,Street2,Street3,City,CountrySubdivisionCode,Income,Population,Male Pop (%),White (%),Black (%),Asian (%),Hispanic (%),Employed (%),Travel Time to Work (mins),Median Age,Age <18 (%)
-0,0,Galloway,39.46,-74.49,405 S. Pitney Road,,Galloway Village Square Shopping Center,Absecon,NJ,63887.0,8370.0,47.93,79.86,8.69,6.38,7.42,46.31,,51.2,19.39
-1,1,Acme - Allendale #1095,41.03,-74.13,45 Demercurio Dr,,,Allendale,NJ,151875.0,6820.0,47.9,85.12,1.09,11.74,1.8,45.72,,47.8,28.04
-2,2,Target Ocean T-1378,40.23,-74.05,2331 State Route 66,,,Asbury Park,NJ,39324.0,15830.0,49.2,37.25,46.78,0.66,30.16,47.87,24.0,40.6,23.83
-3,3,"Atlantic City, The Walk",39.36,-74.44,120 North Michigan Avenue,,,Atlantic City,NJ,26006.0,39075.0,49.58,31.97,36.24,18.23,29.27,39.01,,41.7,25.21
-4,4,Golden Nugget-Atlantic City,39.38,-74.43,1 Castle Blvd,,,Atlantic City,NJ,26006.0,39075.0,49.58,31.97,36.24,18.23,29.27,39.01,,41.7,25.21
-5,5,Tropicana Marketplace,39.35,-74.45,2831 Boardwalk,,,Atlantic City,NJ,26006.0,39075.0,49.58,31.97,36.24,18.23,29.27,39.01,,41.7,25.21
-6,6,Trump Taj Mahal-Atlantic City-Main,39.36,-74.42,1000 Boardwalk at Virginia Ave,,,Atlantic City,NJ,26006.0,39075.0,49.58,31.97,36.24,18.23,29.27,39.01,,41.7,25.21
-7,7,Acme - Barnegat #7921,39.76,-74.25,912 W Bay Ave,,,Barnegat,NJ,69877.0,22141.0,46.81,88.18,7.15,0.5,8.68,41.62,,48.9,21.07
-8,8,Bernards-Riverwalk,40.65,-74.58,655 Martinsville Road,,,Bernards,NJ,137855.0,27032.0,48.23,75.48,2.34,19.19,5.42,46.81,,45.9,27.19
-9,9,Stop & Shop - Bayonne #853,40.67,-74.11,1 Lefante Way,,,Bayonne,NJ,56701.0,66719.0,49.61,65.7,11.11,8.97,29.6,46.7,34.0,43.2,22.26
-10,10,Village at Bedminster,40.65,-74.64,432 US Highway 202/206,,Village at Bedminster,Bedminster,NJ,104452.0,8244.0,46.24,88.88,1.36,7.04,7.08,62.6,,46.3,13.42
-11,11,NJ Monmouth Travel Plaza,40.02,-74.27,"Garden State Pkwy, Mile Marker 100",,,Belmar,NJ,74942.0,5719.0,55.01,93.09,2.41,0.75,14.62,56.65,,47.7,13.34
-12,12,Paramus Park Mall Center Court,40.96,-74.07,700 Paramus Park,,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46
-13,13,Bernardsville Center,40.72,-74.56,80 Morristown Rd.,Unit 10,,Bernardsville,NJ,150635.0,7792.0,56.17,87.54,0.03,4.36,13.51,52.84,,44.5,25.13
-14,14,Gloucester Premium Outlets,39.78,-75.05,1125 S Black Horse Pike,Space 575,,Gloucester,NJ,73701.0,64034.0,48.75,73.69,15.5,4.1,6.86,53.75,28.0,42.4,20.97
-15,15,Acme - Boonton #1582,40.91,-74.4,550 Myrtle Avenue,,,Boonton,NJ,91055.0,8390.0,51.47,81.14,3.02,8.47,14.33,60.38,26.0,39.3,20.62
-16,17,Bordentown,40.13,-74.72,282 Dunns Mill Road,,ACME Commons at Bordentown,Bordentown,NJ,85640.0,11808.0,47.7,75.52,8.55,10.39,7.1,51.19,,44.1,22.4
-17,19,Branchburg,40.61,-74.69,240 Raritan Valley College Drive,,Shoppes at Branchburg,Branchburg,NJ,129237.0,14683.0,47.97,85.96,4.79,8.29,3.3,55.24,,44.5,22.78
-18,20,Whitehouse Station,40.62,-74.76,531 Route 22 East #8,,,Branchburg,NJ,129237.0,14683.0,47.97,85.96,4.79,8.29,3.3,55.24,,44.5,22.78
-19,21,Target Brick T-1153,40.06,-74.15,570 Rte. 70 West,,,Brick,NJ,73051.0,75118.0,48.86,91.42,2.24,1.89,9.76,49.61,30.0,46.4,19.49
-20,22,Bridgewater Mall-Level 1 Side,40.59,-74.62,400 Commons Way,2475,Bridgewater Commons,Bridgewater,NJ,122684.0,45336.0,48.48,70.75,2.9,22.64,9.24,50.82,29.0,45.7,23.12
-21,23,Target Bridgewater T-1224,40.56,-74.56,200 Promenade Blvd,,,Bridgewater,NJ,122684.0,45336.0,48.48,70.75,2.9,22.64,9.24,50.82,29.0,45.7,23.12
-22,24,The Village at Bridgewater Commons,40.58,-74.61,610 Commons Way 4300,,The Village at Bridgewater Commons,Bridgewater,NJ,122684.0,45336.0,48.48,70.75,2.9,22.64,9.24,50.82,29.0,45.7,23.12
-23,25,Target Burlington T-1158,40.04,-74.82,2703 Route 541,,,Burlington,NJ,50709.0,9835.0,46.98,54.03,31.05,3.25,10.78,49.89,,43.4,21.21
-24,27,Rutgers U/Camden-Student Union,39.95,-75.12,326 Penn St,,,Camden,NJ,26105.0,75550.0,47.92,21.22,45.4,3.18,48.48,34.89,23.0,32.0,31.42
-25,28,Cedar Knolls Hanover,40.81,-74.47,178 Hanover Avenue,101,,Hanover,NJ,116020.0,14436.0,49.69,83.53,1.3,13.78,8.7,52.23,24.0,45.6,21.48
-26,29,Chatham,40.75,-74.43,640 Shunpike Rd.,,,Chatham,NJ,176364.0,10507.0,48.58,85.75,1.97,10.29,3.13,46.08,35.0,44.1,28.48
-27,31,480 Evesham Road,39.86,-74.97,480 Evesham Road,,Short Hills Towne Centre,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08
-28,32,600 Route 38 Cherry Hill,39.94,-75.05,600 Rt 38,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08
-29,33,Chapel & Haddonfield,39.93,-75.03,512 Haddonfield Road,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08
-30,34,Garden State Park,39.92,-75.04,2026 Route 70 West,Suite A,Garden State Park,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08
-31,35,Macy's - Cherry Hill Mall,39.94,-75.02,2000 Route 38,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08
-32,36,NJ Walt Whitman Travel Plaza,39.89,-75.0,NJPK MM 32.3,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08
-33,37,"Rt. 70 West, Cherry Hill",39.91,-75.0,1192 East Rt. 70,#12,Kinko's Plaza,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08
-34,38,Target Cherry Hill T-1085,39.93,-75.03,2137 SR-38,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08
-35,39,Chester Springs Shopping Center,40.78,-74.69,537 Route 206 South,,Chester Springs Shopping Center,Chester,NJ,101375.0,1540.0,48.44,88.83,0.78,2.14,10.19,42.4,,46.6,25.45
-36,41,Target Clark T-1467,40.63,-74.31,45 Central Ave,,,Clark,NJ,100192.0,15607.0,48.15,94.25,1.34,2.76,13.65,54.24,,43.7,20.13
-37,42,1490 Blackwood-Clementon Road,39.8,-75.04,1490 Blackwood-Clementon Rd.,Gloucester Township,Cherrywood Plaza,Clementon,NJ,52634.0,4933.0,45.69,67.77,27.87,0.0,12.79,45.19,,40.4,22.34
-38,43,Clifton Route 3,40.83,-74.14,360 Rt 3,,,Clifton,NJ,74963.0,86207.0,47.9,66.39,6.73,9.82,37.01,51.71,27.0,40.7,20.38
-39,44,Stop & Shop-Clifton #813,40.83,-74.14,160 Kingsland Rd,,,Clifton,NJ,74963.0,86207.0,47.9,66.39,6.73,9.82,37.01,51.71,27.0,40.7,20.38
-40,45,Closter,40.97,-73.96,234 Closter Dock Road,,Heidenberg Plaza,Closter,NJ,130670.0,8710.0,49.4,59.25,3.86,35.98,7.38,46.7,,47.3,25.07
-41,46,Target Closter T-3235,40.97,-73.96,6 Vervalan St,,,Closter,NJ,130670.0,8710.0,49.4,59.25,3.86,35.98,7.38,46.7,,47.3,25.07
-42,47,Molly Pitcher Adj Snackbar,40.32,-74.49,MM-71.7 S New Jersey Tpke,,,Cranbury,NJ,138906.0,3844.0,52.89,78.67,6.01,12.12,4.92,46.75,,51.5,22.92
-43,48,NJ TP - Molly Pitcher Mobile Truck,40.32,-74.49,New Jersey Turnpike,,,Cranbury,NJ,138906.0,3844.0,52.89,78.67,6.01,12.12,4.92,46.75,,51.5,22.92
-44,49,Stop & Shop-Monroe Township #810,40.32,-74.44,1600 Perrineville Road,,,Cranbury,NJ,138906.0,3844.0,52.89,78.67,6.01,12.12,4.92,46.75,,51.5,22.92
-45,50,Cranford N Ave E - Drive Thru Only,40.66,-74.29,345 N Ave E,,,Cranford,NJ,122848.0,23972.0,48.87,89.33,2.81,3.11,9.97,52.78,31.0,43.7,22.55
-46,51,Cranford Train Station,40.65,-74.3,200 South Ave.,Suite 101,,Cranford,NJ,122848.0,23972.0,48.87,89.33,2.81,3.11,9.97,52.78,31.0,43.7,22.55
-47,52,Delran,40.02,-74.94,1340 Fairview Boulevard,,Hartford Corners,Delran,NJ,94321.0,16747.0,49.31,82.14,9.6,4.98,2.25,53.56,,41.0,22.14
-48,53,Denville Plaza,40.89,-74.48,2-28 West Main Street,,Denville Plaza,Denville,NJ,116078.0,16822.0,47.63,87.21,2.16,8.27,6.6,53.18,29.0,45.8,22.67
-49,54,Route 10 Denville,40.87,-74.51,3056 Route 10 West,,,Denville,NJ,116078.0,16822.0,47.63,87.21,2.16,8.27,6.6,53.18,29.0,45.8,22.67
-50,55,Deptford Mall,39.83,-75.1,1750 Deptford Center Road,KI08,,Deptford,NJ,67983.0,30556.0,47.29,74.04,13.75,5.92,7.43,51.52,26.0,44.9,20.13
-51,56,"Route 18 & Tices, East Brunswick",40.46,-74.4,300 Route 18 North,,,East Brunswick,NJ,105959.0,48673.0,46.91,66.3,4.56,25.57,7.52,51.67,35.0,46.1,21.07
-52,57,East Hanover - Rt 10,40.8,-74.36,405 Route 10 East,,,East Hanover,NJ,121769.0,11241.0,46.16,84.18,0.82,13.04,14.45,50.14,,47.3,19.63
-53,58,Target East Hanover T-1491,40.81,-74.38,130 State Rte 10,,,East Hanover,NJ,121769.0,11241.0,46.16,84.18,0.82,13.04,14.45,50.14,,47.3,19.63
-54,59,NJ TP Vince Lombardi Travel Plaza,40.83,-74.0,NJTP MM 116,,,Ridgefield Park,NJ,72191.0,13070.0,47.9,69.69,5.87,13.72,42.66,54.58,28.0,39.3,22.81
-55,60,"East Rutherford, Rt. 17",40.83,-74.09,10 State Route 17,,,East Rutherford,NJ,77400.0,9433.0,48.49,68.72,4.7,19.43,20.65,53.04,27.0,39.0,18.46
-56,61,Hilton Meadowlands,40.81,-74.08,2 Meadowlands Plaza,,,East Rutherford,NJ,77400.0,9433.0,48.49,68.72,4.7,19.43,20.65,53.04,27.0,39.0,18.46
-57,62,Eatontown,40.29,-74.05,178 Route 35,,,Eatontown,NJ,66470.0,12258.0,47.75,73.87,10.72,8.34,13.57,52.91,22.0,46.2,19.0
-58,63,Edgewater,40.81,-73.98,457 River Road,,Edgewater Commons,Edgewater,NJ,103505.0,12165.0,45.45,55.36,5.18,35.66,13.54,52.58,37.0,42.2,20.48
-59,64,Target Edgewater T-1263,40.81,-73.98,543 River Rd,,,Edgewater,NJ,103505.0,12165.0,45.45,55.36,5.18,35.66,13.54,52.58,37.0,42.2,20.48
-60,65,Edison,40.56,-74.35,1-11 Lincoln Highway,,Colonial Village,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24
-61,66,Macy's-Menlo Park #8,40.54,-74.33,275 Menlo Park Mall,,,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24
-62,67,Menlo Park Mall,40.55,-74.34,100 Menol Park Dr.,,Menlo Park Mall,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24
-63,68,Sheraton Edison,40.52,-74.34,125 Raritan Center Pkwy,,,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24
-64,69,Target Edison T-1055,40.55,-74.34,100 Parsonage Rd,,,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24
-65,70,Jersey Gardens Mall,40.66,-74.17,651 Kapkowski Road,1456,Jersey Gardens,Elizabeth,NJ,45186.0,129363.0,49.8,46.63,19.16,1.79,64.11,48.2,25.0,37.3,26.2
-66,71,Englewood,40.89,-73.97,17 E. Palisades Avenue,,,Englewood,NJ,80670.0,28509.0,47.08,45.79,30.77,12.33,24.52,51.55,33.0,42.5,21.7
-67,72,Marlton,39.89,-74.93,300 State Route 73,Space A,,Evesham,NJ,94395.0,45489.0,48.46,85.71,4.97,6.08,4.7,55.11,27.0,43.9,21.03
-68,73,Target - Fairfield T-1175,40.89,-74.27,632 US Highway 46,,,Fairfield,NJ,52602.0,6300.0,56.52,36.32,46.22,0.29,15.73,34.84,,43.5,19.05
-69,75,Fair Lawn Promanade,40.94,-74.13,16-31 state route 208,,,Fair Lawn,NJ,109747.0,33447.0,47.55,81.94,1.64,13.25,13.68,52.96,29.0,45.4,21.77
-70,76,240 Route 202 - Flemington,40.49,-74.86,240 Route 202,,,Flemington,NJ,60869.0,4650.0,48.92,72.86,1.89,13.96,33.27,48.8,,37.2,23.76
-71,77,Florham Park,40.79,-74.39,184 Columbia Turnpike,,,Florham Park,NJ,123266.0,11792.0,47.18,83.75,4.27,10.85,6.65,53.12,,44.6,15.25
-72,78,Forked River Travel Plaza-Gdn St. P,39.87,-74.21,Garden State Parkway,Mile Marker 74.5,,Lacey,NJ,78649.0,28444.0,48.65,96.92,0.82,1.18,4.74,49.1,,44.3,20.52
-73,79,Acme - Fort Lee #1065,40.86,-73.97,2160 Lemoine Ave,,,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98
-74,80,Fort Lee - Linwood Plaza,40.86,-73.97,136-38 Linwood Plaza,,Linwood Plaza Shopping Center,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98
-75,81,"Fort Lee, Bergen Blvd.",40.86,-73.98,1616 Bergen Blvd.,,,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98
-76,82,"Fort Lee, Route 4 E",40.86,-73.97,2215 SR-4 East,,,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98
-77,83,Lemoine Ave.,40.85,-73.97,1605 Lemoine Ave.,,Whitman Plaza,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98
-78,84,"Franklin, NJ",41.11,-74.58,111 Rt. 23 South,,,Franklin,NJ,57232.0,4849.0,47.64,94.04,4.62,0.72,7.34,51.8,,43.1,20.97
-79,89,Franklin Lakes,40.99,-74.21,816 High Mountain Rd.,,Urban Farms Shopping Center,Franklin Lakes,NJ,155458.0,10953.0,49.69,85.34,1.78,8.49,7.62,46.32,,48.9,23.14
-80,90,Stop & Shop-Franklin #802,40.43,-74.56,3333 Rt. 27,,,Franklin,NJ,57232.0,4849.0,47.64,94.04,4.62,0.72,7.34,51.8,,43.1,20.97
-81,95,Freehold,40.21,-74.26,621 U.S Highway 9,,,Freehold,NJ,99827.0,35429.0,49.93,83.24,5.57,7.33,8.9,49.59,,42.6,22.14
-82,97,Freehold (B&N),40.26,-74.29,3981 US Highway 9,,,Freehold,NJ,99827.0,35429.0,49.93,83.24,5.57,7.33,8.9,49.59,,42.6,22.14
-83,99,Freehold Raceway Mall,40.25,-74.3,3710 Route 9,,Freehold Raceway Mall,Freehold,NJ,99827.0,35429.0,49.93,83.24,5.57,7.33,8.9,49.59,,42.6,22.14
-84,101,Route 537 Freehold,40.24,-74.31,11 Village Center Drive,,,Freehold,NJ,99827.0,35429.0,49.93,83.24,5.57,7.33,8.9,49.59,,42.6,22.14
-85,103,Galloway Township,39.48,-74.54,68 W. Jimmie Leeds Rd,B1,,Galloway,NJ,65000.0,37029.0,47.4,69.51,11.6,11.46,11.48,49.32,,40.6,19.28
-86,104,Gillette,40.67,-74.48,977 Valley Road,,Valley Mall Shopping Center,Long Hill,NJ,133269.0,8763.0,49.18,92.72,0.78,4.84,4.28,53.41,,46.1,21.1
-87,105,Glen Ridge,40.8,-74.2,710 Bloomfield Ave.,,,Glen Ridge,NJ,196821.0,7668.0,47.95,82.26,7.37,5.75,11.2,48.54,,43.1,32.42
-88,106,Glen Rock,40.96,-74.13,224 Rock Road,,,Glen Rock,NJ,162443.0,11962.0,49.82,84.66,0.85,11.03,7.05,47.91,,42.3,28.52
-89,107,"Green Brook, NJ",40.59,-74.5,287 Route 22,,,Green Brook,NJ,136094.0,7210.0,48.02,69.02,5.85,24.62,11.79,56.52,,48.0,21.83
-90,108,Hackensack,40.88,-74.06,360 Essex Street,,Sanzari Medical Arts Building,Hackensack,NJ,59277.0,44673.0,48.87,45.83,25.25,10.46,38.15,53.29,30.0,43.4,18.41
-91,109,Target Hackensack T-1330,40.9,-74.04,630 Main St,,,Hackensack,NJ,59277.0,44673.0,48.87,45.83,25.25,10.46,38.15,53.29,30.0,43.4,18.41
-92,110,"Hackettstown, NJ",40.82,-74.84,1885 Route 57,,,Hackettstown,NJ,63940.0,9569.0,49.49,84.66,3.23,3.62,20.82,51.49,,38.5,21.47
-93,111,Target Washington Township T-2446,40.85,-74.81,68 US Highway 46 W,,,Hackettstown,NJ,63940.0,9569.0,49.49,84.66,3.23,3.62,20.82,51.49,,38.5,21.47
-94,112,Haddonfield,39.9,-75.03,214-216 Kings Highway,,,Haddonfield,NJ,138920.0,11428.0,49.74,94.25,1.1,2.07,3.81,47.79,26.0,43.6,28.08
-95,113,Hamilton Trenton,40.21,-74.69,1150 Whitehorse-Mercerville Road,,,Hamilton,NJ,73415.0,89206.0,47.35,76.41,13.88,4.79,14.89,52.41,24.0,45.4,19.43
-96,115,Farley Travel Plaza,39.55,-74.74,Atlantic City Expressway Mile Marker 20,,,Hammonton,NJ,68655.0,14557.0,48.67,82.83,2.89,1.39,20.64,48.28,,44.6,22.52
-97,116,Hasbrouck Heights,40.86,-74.07,201-211 Route 17 South,,,Hasbrouck Heights,NJ,87800.0,12205.0,47.67,79.69,2.94,12.89,14.6,52.08,27.0,43.6,20.14
-98,117,Hillsborough,40.5,-74.65,601 Route 206 & 514,Suite #21,Nelsons Corner Shopping Center,Hillsborough,NJ,119542.0,39712.0,47.8,73.86,5.47,16.87,7.75,54.66,30.0,44.0,23.57
-99,118,Hillsdale,41.0,-74.04,126 Broadway,,,Hillsdale,NJ,124844.0,10520.0,48.96,86.7,1.63,8.43,8.9,50.65,31.0,45.6,25.04
-100,119,Hoboken - 12th & Hudson,40.75,-74.03,1205 N. Hudson Street,,The Shipyards at 12th & Hudson,Hoboken,NJ,127523.0,54117.0,50.34,82.91,2.72,9.29,16.22,66.4,37.0,31.8,13.55
-101,120,"Hoboken, Washington St.",40.74,-74.03,314  Washington Ave.,,,Hoboken,NJ,127523.0,54117.0,50.34,82.91,2.72,9.29,16.22,66.4,37.0,31.8,13.55
-102,121,Newark St. Hoboken,40.74,-74.03,51 Newark Street,,,Hoboken,NJ,127523.0,54117.0,50.34,82.91,2.72,9.29,16.22,66.4,37.0,31.8,13.55
-103,122,Howell - Route 9,40.14,-74.22,4701 Rte. 9 No.,Space T1B10,,Howell,NJ,100305.0,52076.0,48.96,87.01,3.87,5.2,9.61,52.11,,41.4,23.52
-104,123,Rt. 1 North Woodbridge,40.56,-74.3,774 Route 1 N,,,Woodbridge,NJ,83266.0,101639.0,51.15,56.96,11.54,24.58,18.87,49.69,30.0,45.3,20.43
-105,124,Grove Point,40.72,-74.04,98 Christopher Columbus Drive,,,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87
-106,125,Jersey City,40.73,-74.03,111 Town Square Place,,,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87
-107,126,"Jersey City, Exchange Place",40.72,-74.03,15 Exchange Place,Suite 110,,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87
-108,127,Newport Mall,40.73,-74.04,30 Mall Drive West,A-36,Newport Centre,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87
-109,128,Target Jersey City T-1886,40.73,-74.04,100 14th St,,,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87
-110,129,Acme - Kenilworth #1096,40.68,-74.28,801 Kenilworth Blvd,,,Kenilworth,NJ,108281.0,8235.0,53.01,78.12,1.79,6.72,27.33,52.4,,46.6,21.55
-111,130,"Lakewood, NJ",40.06,-74.16,1865 Route 70,,Lakewood Hilton Gardens Project,Lakewood,NJ,45321.0,99467.0,49.64,91.16,3.28,1.01,16.0,29.08,,19.3,46.97
-112,131,Lawrenceville,40.3,-74.73,2673 Main St,,,Lawrence,NJ,96529.0,33288.0,47.2,68.99,11.82,15.66,8.58,52.03,25.0,41.5,19.18
-113,133,Mercer Mall,40.3,-74.68,301 Mercer Mall,,,Lawrence,NJ,96529.0,33288.0,47.2,68.99,11.82,15.66,8.58,52.03,25.0,41.5,19.18
-114,135,Quaker Bridge,40.29,-74.68,150 Quaker Bridge Mall RD,2026,Quaker Bridge Mall,Lawrence,NJ,96529.0,33288.0,47.2,68.99,11.82,15.66,8.58,52.03,25.0,41.5,19.18
-115,137,Rider University/Student Rec Center,40.28,-74.73,2083 Lawrenceville Rd,,,Lawrence,NJ,96529.0,33288.0,47.2,68.99,11.82,15.66,8.58,52.03,25.0,41.5,19.18
-116,139,Acme - Lincroft #7932,40.33,-74.12,619 Newman Springs Road,,,Middletown,NJ,105035.0,65952.0,49.16,93.17,1.08,3.34,5.77,50.21,33.0,44.0,22.73
-117,140,Linden,40.62,-74.25,693 West Edgar Road,,Aviation Plaza at Linden,Linden,NJ,66538.0,42230.0,48.62,53.65,29.95,3.93,30.22,50.77,28.0,41.8,20.27
-118,141,"Rte 46 W, Little Ferry",40.86,-74.04,300 Route 46 West,,,Little Ferry,NJ,61341.0,10942.0,49.77,63.16,2.74,26.21,27.34,54.13,,43.5,15.44
-119,142,Livingston,40.8,-74.32,1 West Mt. Pleasant Avenue,,,Livingston,NJ,153381.0,29955.0,49.45,72.36,1.65,22.44,4.02,47.39,31.0,47.7,25.14
-120,143,Madison,40.75,-74.4,309 Main Street,,,Madison,NJ,127948.0,16080.0,46.97,84.98,4.12,6.73,9.64,48.33,,41.8,24.57
-121,144,Acme - Mahwah #1058,41.1,-74.15,125 Franklin Tpke,,,Mahwah,NJ,107215.0,26581.0,46.47,80.09,3.28,13.19,8.75,50.8,27.0,45.0,18.68
-122,145,Target Stafford Township T-2392,39.71,-74.29,209 Stafford Park Blvd,,,Stafford,NJ,76527.0,27012.0,49.86,93.39,2.54,1.33,6.66,48.94,,45.9,20.51
-123,146,Route 9 Manalapan,40.31,-74.3,310 Route 9 North,,,Manalapan,NJ,109326.0,40096.0,47.63,88.31,1.21,8.11,5.9,47.57,39.0,44.8,23.65
-124,147,Margate NJ,39.33,-74.5,8005 Ventnor Ave,,,Margate City,NJ,69896.0,6200.0,45.73,94.16,2.18,1.45,1.73,48.65,25.0,61.3,9.05
-125,148,Matawan,40.41,-74.23,265 Main Street,,Main Street Village,Matawan,NJ,86149.0,8898.0,50.12,82.03,8.15,7.53,10.29,53.57,34.0,40.3,21.74
-126,149,Mays Landing Wrangleboro,39.45,-74.64,760 Consumer Square,,Wrangleboro Consumer Center,Hamilton,NJ,73415.0,89206.0,47.35,76.41,13.88,4.79,14.89,52.41,24.0,45.4,19.43
-127,151,Medford,39.87,-74.81,560 Stokes Road,,Ironstone Village Shoppes,Medford,NJ,113469.0,23353.0,49.07,91.84,2.15,2.45,3.41,49.96,,46.5,23.21
-128,152,Rte 35-Middletown,40.41,-74.13,2011 Route 35,,,Middletown,NJ,105035.0,65952.0,49.16,93.17,1.08,3.34,5.77,50.21,33.0,44.0,22.73
-129,153,Midland Park Shopping Center,40.98,-74.14,85 Godwin Ave,,Midland Park Shopping Center,Midland Park,NJ,105313.0,7336.0,49.1,95.24,0.82,0.89,13.3,53.49,,43.2,23.81
-130,154,Millburn,40.72,-74.31,343 Millburn Avenue,,,Millburn,NJ,202862.0,20387.0,49.7,71.59,3.1,20.93,4.43,44.87,37.0,44.1,32.55
-131,155,Joyce Kilmer Travel Plaza,40.42,-74.44,"Milepost 78.7 NB, NJ Turnpike",,,Milltown,NJ,99704.0,7069.0,48.18,88.6,5.26,3.92,12.93,49.44,,43.5,23.03
-132,156,Target Millville T-2170,39.42,-75.04,2116 N 2nd St,,,Millville,NJ,49950.0,28235.0,48.87,74.18,19.02,1.61,17.22,42.67,,43.2,24.97
-133,157,Montclair - Church & South Park,40.81,-74.22,40 South Park St,,The Siena,Montclair,NJ,113293.0,38572.0,46.78,65.08,24.7,3.3,9.85,51.48,35.0,40.4,25.59
-134,158,Upper Montclair,40.84,-74.21,572 Valley Road,,,Montclair,NJ,113293.0,38572.0,46.78,65.08,24.7,3.3,9.85,51.48,35.0,40.4,25.59
-135,159,NJ Montvale Travel Plaza.,41.05,-74.05,Montvale Service Area mile 173 Garden St,,,Montvale,NJ,120060.0,8440.0,47.82,76.62,3.08,15.34,11.81,46.45,,46.3,23.85
-136,160,Moorestown Mall Kiosk,39.94,-74.96,400 New Jersey 38,,,Moorestown,NJ,133902.0,20568.0,47.36,83.52,6.31,7.22,2.12,49.16,26.0,45.3,24.57
-137,161,Moorestown-Wright's Hardware,39.96,-74.95,41 East Main Street,,,Moorestown,NJ,133902.0,20568.0,47.36,83.52,6.31,7.22,2.12,49.16,26.0,45.3,24.57
-138,162,"Rte 9, Marlboro",40.35,-74.31,67 Route 9 South,,,Matawan,NJ,86149.0,8898.0,50.12,82.03,8.15,7.53,10.29,53.57,34.0,40.3,21.74
-139,163,Stop & Shop-Morris Plains # 893,40.84,-74.46,245 Littleton Road,,,Morris Plains,NJ,125229.0,5605.0,51.19,91.88,2.16,4.71,9.1,54.75,,43.6,21.12
-140,164,Morristown Medical Ctr - Main Locat,40.79,-74.46,100 Madison Ave,,,Morristown,NJ,92296.0,18833.0,50.8,73.14,9.09,6.09,32.7,64.46,,36.0,16.78
-141,165,"Morristown, Park Place",40.8,-74.48,40 Park Place,,,Morristown,NJ,92296.0,18833.0,50.8,73.14,9.09,6.09,32.7,64.46,,36.0,16.78
-142,166,Mount Laurel Centerton Square,39.97,-74.91,10 Centerton Road,Suite D,Centerton Square Shopping Center,Mount Laurel,NJ,92826.0,41795.0,47.3,77.84,8.81,8.97,4.44,52.55,28.0,46.0,21.0
-143,167,NJ James Cooper Travel Plaza,39.98,-74.89,5 Hartford Rd,,,Mount Laurel,NJ,92826.0,41795.0,47.3,77.84,8.81,8.97,4.44,52.55,28.0,46.0,21.0
-144,168,Route 73 & Fellowship Road,39.93,-74.96,550 Fellowship Road,,,Mount Laurel,NJ,92826.0,41795.0,47.3,77.84,8.81,8.97,4.44,52.55,28.0,46.0,21.0
-145,169,Target Mount Laurel T-1917,39.97,-74.91,4 Centerton Rd,,,Mount Laurel,NJ,92826.0,41795.0,47.3,77.84,8.81,8.97,4.44,52.55,28.0,46.0,21.0
-146,170,Rt. 66 & S. Seaview Square Drive,40.23,-74.05,2301 Rt 66,,,Neptune,NJ,67836.0,27728.0,48.92,54.36,35.22,2.92,8.59,50.83,,51.0,17.87
-147,171,New Brunswick,40.5,-74.44,391 George Street,,Kilmer Square,New Brunswick,NJ,38413.0,56792.0,48.89,66.19,13.96,9.74,52.99,38.66,25.0,23.4,23.59
-148,172,Rutgers University-The Yard,40.5,-74.45,38 Colllege Ave.,,,New Brunswick,NJ,38413.0,56792.0,48.89,66.19,13.96,9.74,52.99,38.66,25.0,23.4,23.59
-149,173,New Providence Village Center,40.71,-74.4,1260 Springfield Avenue,,,New Providence,NJ,129638.0,12716.0,48.76,82.42,0.94,12.86,7.77,47.42,,41.8,27.37
-150,174,"EWR - Newark Concourse C, Space 86",40.69,-74.17,"Terminal C, Space 86",,,Newark,NJ,34826.0,282803.0,49.41,25.29,50.12,1.75,36.38,41.06,34.0,36.0,24.79
-151,175,"EWR - Newark Term C, Space B-50",40.69,-74.17,"Terminal C, Space B-50",,,Newark,NJ,34826.0,282803.0,49.41,25.29,50.12,1.75,36.38,41.06,34.0,36.0,24.79
-152,176,Rutgers U/Newark Robeson Stdnt Ctr,40.74,-74.18,350 Martin Luther King Blvd,,,Newark,NJ,34826.0,282803.0,49.41,25.29,50.12,1.75,36.38,41.06,34.0,36.0,24.79
-153,177,Shoppes on Broad,40.74,-74.17,Broad Street,,,Newark,NJ,34826.0,282803.0,49.41,25.29,50.12,1.75,36.38,41.06,34.0,36.0,24.79
-154,178,"North Bergen, River Rd.",40.79,-74.0,7301 River Rd.,,,North Bergen,NJ,57269.0,63438.0,49.71,69.53,3.32,6.91,73.12,51.73,32.0,40.0,21.26
-155,179,Target North Bergen Commons T-1865,40.8,-74.02,7101 Tonnelle Ave,,,North Bergen,NJ,57269.0,63438.0,49.71,69.53,3.32,6.91,73.12,51.73,32.0,40.0,21.26
-156,180,"North Brunswick, NJ",40.46,-74.46,522 Shoppes Boulevard,,Shoppes at North Brunswick,North Brunswick,NJ,88723.0,42591.0,48.45,50.62,18.78,24.96,19.47,50.31,32.0,37.7,21.92
-157,181,Target North Brunswick T-2853,40.44,-74.5,101 Grand Ave,,,North Brunswick,NJ,88723.0,42591.0,48.45,50.62,18.78,24.96,19.47,50.31,32.0,37.7,21.92
-158,182,"Northvale, NJ",41.02,-73.95,271B Livingston St.,,Daibes Square at Northvale,Northvale,NJ,92650.0,4872.0,50.47,68.72,2.16,26.09,9.85,52.26,,46.0,22.72
-159,183,Nutley,40.82,-74.16,483 Franklin Avenue,,,Nutley,NJ,93691.0,28829.0,47.28,79.8,2.98,11.55,15.74,53.2,30.0,42.9,20.59
-160,184,Route 35 - Oakhurst,40.26,-74.04,2100 Highway 35,,,Ocean,NJ,67288.0,8838.0,50.36,97.64,0.5,0.45,2.43,40.18,,56.0,13.82
-161,186,Oakland,41.03,-74.24,411 Rampo Valley Rd,,,Oakland,NJ,112944.0,13145.0,49.17,91.0,2.25,5.58,6.97,54.21,26.0,42.9,24.75
-162,187,"Ocean City, NJ - Asbury Ave.",39.28,-74.58,1061 Asbury Ave,,,Ocean City,NJ,72715.0,11328.0,46.23,90.8,2.61,1.83,8.14,43.79,,56.0,19.14
-163,188,Acme - Old Bridge #2827,40.38,-74.31,3500 US-9,,,Old Bridge,NJ,88540.0,66880.0,48.57,75.13,6.98,13.7,13.52,54.6,34.0,43.4,20.24
-164,189,Old Tappan,41.01,-73.98,216 Old Tappan Road,,,Old Tappan,NJ,141185.0,5999.0,48.84,73.78,0.72,22.15,4.58,46.72,,49.1,23.35
-165,190,Garden State Plaza - Lower level,40.92,-74.08,1 Garden State Plaza,Space #9145,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46
-166,191,Rt 17 South Paramus,40.93,-74.07,177 Route 17 South,,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46
-167,192,Rt. 4 - Paramus,40.92,-74.07,65 Route 4 West,,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46
-168,193,Rte 17N - Paramus,40.95,-74.07,370 Route 17 N,,The Container Store Project,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46
-169,194,Target Paramus T-2381,40.92,-74.06,900 Bergen Town Center,,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46
-170,195,Park Ridge,41.04,-74.03,191 Kinderkamack Road,,,Park Ridge,NJ,106875.0,8905.0,50.22,91.16,1.92,2.04,17.5,49.62,,46.6,23.14
-171,196,Hopewell,40.3,-74.78,800 A Denow Road,,,Pennington,NJ,121667.0,2591.0,46.82,92.36,2.2,1.81,3.55,48.75,,47.1,22.5
-172,197,John Fenwick Travel Plaza,39.69,-75.45,"Milepost 5.4 NB, NJ Turnpike",,,Penns Grove,NJ,37188.0,4917.0,52.8,48.67,35.65,1.28,36.85,37.81,19.0,32.8,27.6
-173,198,NJ Clara Barton TP,39.72,-75.46,NJTP Mile Marker 5.4 Southbound,,,Penns Grove,NJ,37188.0,4917.0,52.8,48.67,35.65,1.28,36.85,37.81,19.0,32.8,27.6
-174,199,Phillipsburg,40.69,-75.15,1198 US Highway 22,,,Phillipsburg,NJ,49274.0,14540.0,48.5,80.13,11.2,1.38,13.33,48.24,,44.8,21.8
-175,200,Stop & Shop - Phillipsburg #816,40.68,-75.15,1278 US Hwy 22,,,Phillipsburg,NJ,49274.0,14540.0,48.5,80.13,11.2,1.38,13.33,48.24,,44.8,21.8
-176,201,Target Phillipsburg T-1464,40.67,-75.14,1204 New Brunswick Ave,,,Phillipsburg,NJ,49274.0,14540.0,48.5,80.13,11.2,1.38,13.33,48.24,,44.8,21.8
-177,202,Piscataway,40.55,-74.44,1364 Centennial Way,,Centennial Plaza,Piscataway,NJ,89617.0,57695.0,50.35,36.28,19.84,38.03,11.34,44.51,30.0,33.4,16.81
-178,203,Rutgers University Truck,40.52,-74.44,110 Ethel Rd West,Suite B,,Piscataway,NJ,89617.0,57695.0,50.35,36.28,19.84,38.03,11.34,44.51,30.0,33.4,16.81
-179,204,Rutgers University-Plaza at Livings,40.52,-74.43,105 Joyce Kilmer Ave,#30,,Piscataway,NJ,89617.0,57695.0,50.35,36.28,19.84,38.03,11.34,44.51,30.0,33.4,16.81
-180,205,Absecon Travel Plaza - NJ Turnpike,39.49,-74.59,Garden State Pkwy Mile Marker 41.3,,,Galloway,NJ,65000.0,37029.0,47.4,69.51,11.6,11.46,11.48,49.32,,40.6,19.28
-181,206,Pompton Lakes,41.01,-74.29,45 Wanaque Avenue,,Pompton Lakes Town Square,Pompton Lakes,NJ,92952.0,11205.0,49.64,87.68,1.32,5.55,16.94,58.47,,42.1,19.34
-182,207,Princeton,40.35,-74.66,100 Nassau Street,,,Princeton Junction,NJ,,,,,,,,,,,
-183,208,Princeton Market Fair,40.31,-74.66,3535 Rt. 1 Ste. 426,,Princeton Market Fair,Princeton Junction,NJ,,,,,,,,,,,
-184,209,Franklin Square - Ramsey,41.08,-74.14,561 North Franklin Turnpike,,Franklin Square,Ramsey,NJ,137768.0,15121.0,49.07,89.02,0.13,10.18,5.59,53.36,,46.6,24.31
-185,210,Ramsey Train Station,41.06,-74.14,8 West Main Street,,,Ramsey,NJ,137768.0,15121.0,49.07,89.02,0.13,10.18,5.59,53.36,,46.6,24.31
-186,211,Red Bank,40.35,-74.07,4-6 White Street,,,Red Bank,NJ,75114.0,12220.0,48.8,61.73,13.4,2.25,36.66,58.17,27.0,41.8,20.81
-187,212,Northeast Ridgewood,40.98,-74.09,363 RT 17 South,,,Ridgewood,NJ,162011.0,25554.0,48.29,79.72,1.66,14.75,7.76,45.12,34.0,41.8,30.37
-188,213,Ridgewood Downtown,40.98,-74.12,193 E Ridgewood Ave,,,Ridgewood,NJ,162011.0,25554.0,48.29,79.72,1.66,14.75,7.76,45.12,34.0,41.8,30.37
-189,214,Rio Grande,39.02,-74.87,3301 Route 9 South,Unit T-1A,Rio Grande Shopping Center,Middle,NJ,62249.0,18623.0,48.91,83.17,11.83,1.34,5.99,45.51,21.0,46.1,19.26
-190,215,Target Riverdale - T2247,40.99,-74.31,94 SR-23,,,Riverdale,NJ,100602.0,4238.0,47.45,91.86,0.0,4.58,10.5,60.67,,41.2,17.7
-191,216,Target Delran T-2104,40.01,-74.96,4000 Route 130,,,Riverside,NJ,60885.0,7969.0,53.08,77.6,13.58,1.56,11.96,54.51,,42.5,20.81
-192,217,Rockaway Townsquare Mall,40.91,-74.55,301 Mt. Hope Avenue,,Rockaway Townsquare Mall,Rockaway,NJ,106599.0,24758.0,48.49,85.39,3.97,6.43,11.95,54.1,,45.1,20.72
-193,219,"Rockaway, Ring Road",40.91,-74.56,395 Mount Hope Avenue,300,,Rockaway,NJ,106599.0,24758.0,48.49,85.39,3.97,6.43,11.95,54.1,,45.1,20.72
-194,221,Target Rockaway T-1864,40.91,-74.56,381 Mt. Hope Ave,,,Rockaway,NJ,106599.0,24758.0,48.49,85.39,3.97,6.43,11.95,54.1,,45.1,20.72
-195,223,Roseland,40.82,-74.33,43 Eisenhower Parkway,,Eagle Rock Plaza,Roseland,NJ,110208.0,5907.0,46.81,85.29,0.0,10.16,7.33,51.18,,50.4,20.03
-196,224,96 Meadow Road,40.82,-74.1,96 Meadow Road,,,Rutherford,NJ,93787.0,18622.0,48.16,74.28,2.28,17.54,16.8,52.27,31.0,43.6,20.56
-197,225,Sea Girt,40.14,-74.06,2150 Highway 35,#E-18,Brook 35 Plaza,Sea Girt,NJ,126667.0,1714.0,50.29,99.77,0.18,0.06,2.39,39.67,,58.8,14.18
-198,226,NJ Alexander Hamilton Travel Plaza,40.78,-74.06,"NJ Turnpike, Milemarker 111.6 S",,,Secaucus,NJ,99883.0,19279.0,48.65,61.47,3.06,30.06,16.88,52.17,30.0,46.5,18.9
-199,227,"Secaucus, Harmon Meadow",40.79,-74.05,700 Plaza Drive,,The Plaza at the Meadows,Secaucus,NJ,99883.0,19279.0,48.65,61.47,3.06,30.06,16.88,52.17,30.0,46.5,18.9
-200,228,Sewell Washington Center,39.75,-75.08,304 Greentree Road,,Washington Center,Mantua,NJ,93601.0,15110.0,46.27,93.61,2.68,2.57,3.23,53.96,,43.5,22.91
-201,229,Target Mantua T-2384,39.77,-75.13,675 Woodbury Glassboro Rd,,,Mantua,NJ,93601.0,15110.0,46.27,93.61,2.68,2.57,3.23,53.96,,43.5,22.91
-202,230,The Mall at Short Hills,40.74,-74.36,1200 Morris Turnpike,,The Mall at Short Hills,Millburn,NJ,202862.0,20387.0,49.7,71.59,3.1,20.93,4.43,44.87,37.0,44.1,32.55
-203,231,Shrewsbury,40.33,-74.06,551 Route 35,,The Grove,Shrewsbury,NJ,122321.0,4051.0,44.31,96.94,0.59,1.58,1.78,45.79,,46.4,25.72
-204,233,"Sicklerville, NJ",39.74,-75.01,611 Berlin Cross Keys Rd.,,,Winslow,NJ,76640.0,39317.0,49.13,53.43,35.73,2.37,10.65,50.16,33.0,42.9,23.79
-205,234,Target Gloucester T-2181,39.75,-74.99,1615 Berlin Cross Keys Rd,,,Winslow,NJ,76640.0,39317.0,49.13,53.43,35.73,2.37,10.65,50.16,33.0,42.9,23.79
-206,235,Somers Point,39.33,-74.6,55 Bethel Road,,Ocean Heights Plaza,Somers Point,NJ,52397.0,10644.0,45.02,77.39,13.8,5.67,10.7,50.94,,45.8,21.35
-207,236,Somerset,40.52,-74.52,120 Cedar Grove Lane,,Cedar Grove Shopping Center,Franklin,NJ,57232.0,4849.0,47.64,94.04,4.62,0.72,7.34,51.8,,43.1,20.97
-208,241,Somerville Town Ctr.,40.57,-74.62,"145 W. Main St, unit A-1",Unit A1,,Somerville,NJ,72731.0,12234.0,50.23,71.08,9.6,11.24,21.78,53.83,,39.3,19.57
-209,242,Cheesequake Travel Plaza,40.47,-74.29,Garden State Parkway Mile Post 124,PO Box 307,,South Amboy,NJ,65074.0,8811.0,51.84,88.12,5.95,3.72,13.74,52.08,29.0,46.5,16.87
-210,243,"Sayreville, NJ",40.46,-74.3,957 Route 9 N,,,South Amboy,NJ,65074.0,8811.0,51.84,88.12,5.95,3.72,13.74,52.08,29.0,46.5,16.87
-211,244,Target South Brunswick NJ T-2256,40.38,-74.57,4190 Rt 1 N,,,South Brunswick,NJ,113815.0,45602.0,48.98,44.81,8.99,42.34,6.84,51.27,36.0,47.2,25.8
-212,245,South Orange,40.75,-74.26,11 Sloan Street,,,South Orange Village,NJ,121637.0,16503.0,48.32,63.52,26.6,5.04,6.56,48.21,33.0,34.2,20.44
-213,246,Target South Plainfield T-1929,40.55,-74.43,5000 Hadley Center Dr,,,South Plainfield,NJ,91889.0,24154.0,49.88,61.9,11.16,16.88,16.51,51.83,30.0,45.2,21.26
-214,247,Acme - Wall Township #780,40.15,-74.06,2007 Route 35,,,Spring Lake,NJ,88679.0,2980.0,51.51,99.4,0.0,0.6,0.0,42.48,,55.6,20.5
-215,248,Summit,40.72,-74.36,2 Beechwood Road,,,Summit,NJ,132443.0,22155.0,49.29,81.2,3.53,7.72,15.6,46.88,31.0,40.6,28.6
-216,249,Jersey Shore Premium Outlets,40.22,-74.09,1 Premium Outlet Blvd.,,,Tinton Falls,NJ,79206.0,17902.0,44.89,79.26,8.84,5.5,5.07,48.73,,52.4,18.27
-217,250,Ocean County Mall,39.98,-74.18,1201 HOOPER AVE,1072,Ocean County Mall,Toms River,NJ,76051.0,91415.0,48.5,88.23,3.2,4.19,8.35,48.26,,46.1,20.74
-218,251,Stop & Shop-Toms River #811,39.95,-74.16,353 Route 37 East,,,Toms River,NJ,76051.0,91415.0,48.5,88.23,3.2,4.19,8.35,48.26,,46.1,20.74
-219,252,Toms River Route 9,40.05,-74.22,2360 Lakewood Rd,,,Toms River,NJ,76051.0,91415.0,48.5,88.23,3.2,4.19,8.35,48.26,,46.1,20.74
-220,253,Richard Stockton Travel Plaza,40.18,-74.64,200 Uncle Petes Rd,,,Trenton,NJ,35524.0,84867.0,51.38,39.62,50.48,1.43,35.96,40.45,24.0,35.3,25.18
-221,254,5340 Route 42 Turnersville,39.76,-75.05,5340 Route 42,,,Washington,NJ,91149.0,48119.0,48.4,87.04,5.55,4.44,3.92,51.29,30.0,42.7,21.42
-222,260,Target Turnersville T-1132,39.73,-75.04,4001 Black Horse Pike,,,Washington,NJ,91149.0,48119.0,48.4,87.04,5.55,4.44,3.92,51.29,30.0,42.7,21.42
-223,266,Kean University-Thompson Library,40.68,-74.24,1000 Morris Ave,,,Union,NJ,79324.0,58499.0,48.31,49.04,30.6,10.41,16.34,51.51,29.0,47.6,18.22
-224,268,Rt. 22 - Center Island,40.69,-74.31,2698 Route 22 East,,,Union,NJ,79324.0,58499.0,48.31,49.04,30.6,10.41,16.34,51.51,29.0,47.6,18.22
-225,270,Target Union T-2141,40.72,-74.29,2235 Springfield Ave,,,Union,NJ,79324.0,58499.0,48.31,49.04,30.6,10.41,16.34,51.51,29.0,47.6,18.22
-226,272,Acme - Vernon #2820,41.19,-74.49,530 CR-515,,,Vernon,NJ,90805.0,22572.0,48.99,93.23,2.48,0.6,9.66,55.6,,44.2,20.38
-227,273,Vineland Cumberland Mall,39.43,-75.04,3849 S. Delsea Road,Space #A0013,Cumberland Mall,Vineland,NJ,51113.0,60824.0,46.94,69.68,14.37,1.37,39.06,44.75,,41.7,23.65
-228,274,"Cedar Hill Shopping Center,Voorhees",39.84,-74.93,148 Route 73,,Cedar Hill Shopping Center,Voorhees,NJ,85199.0,29386.0,48.59,66.72,10.33,19.2,4.39,45.72,30.0,48.1,20.26
-229,275,Warren,40.62,-74.49,4 Mount Bethel Rd,,,Warren,NJ,154647.0,15998.0,48.73,78.87,0.79,18.11,5.67,48.57,30.0,47.4,22.77
-230,276,Target Watchung,40.64,-74.41,1515 US Highway 22,,,Watchung,NJ,121678.0,5961.0,46.87,80.07,1.04,14.86,13.22,43.05,,44.4,24.14
-231,277,Berdan Ave & Hamburg Turnpike,40.96,-74.24,1118 Hamburg Turnpike,,,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51
-232,278,Macy's - Willowbrook,40.89,-74.26,1100 Willowbrook Blvd,,Willowbrook Mall,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51
-233,279,Paterson-Hamburg Tpke - Wayne,40.94,-74.2,183 Hamburg Turnpike,,,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51
-234,280,Wayne Rt. 23,40.95,-74.27,1606 Route 23 North,,,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51
-235,281,Wayne West Belt Plaza,40.89,-74.25,57 state route 23,,,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51
-236,282,Willowbrook Mall Food Court,40.89,-74.26,1400 Willowbrook Mall,,Willowbrook Mall,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51
-237,283,West Caldwell,40.85,-74.3,546 Passaic Ave.,,,West Caldwell,NJ,105931.0,10932.0,46.53,90.92,1.2,7.02,5.31,49.35,27.0,46.5,20.02
-238,284,West New York,40.78,-74.01,55-1 Riverwalk Place,,,West New York,NJ,50477.0,53345.0,49.82,59.53,3.39,6.2,76.95,51.22,36.0,36.4,20.9
-239,285,Westfield,40.65,-74.35,117 Central Avenue,,,Westfield,NJ,159923.0,30591.0,47.75,85.27,3.48,6.28,7.6,47.46,37.0,42.6,28.92
-240,286,Westwood Avenue,40.99,-74.03,102 Westwood Avenue,104,Meisel Building,Westwood,NJ,95685.0,11246.0,46.51,78.53,6.89,8.8,16.57,52.86,,43.4,22.88
-241,287,NJ Grover Cleveland Travel Plaza,40.56,-74.26,Mile Marker 92.9,,,Woodbridge,NJ,83266.0,101639.0,51.15,56.96,11.54,24.58,18.87,49.69,30.0,45.3,20.43
-242,288,Thomas Edison Travel Plza,40.56,-74.27,"New Jersey Turnpike, Mile Post 92.9 S",,,Woodbridge,NJ,83266.0,101639.0,51.15,56.96,11.54,24.58,18.87,49.69,30.0,45.3,20.43
-243,289,Woodbridge Mall,40.56,-74.3,250 Woodbridge Center Drive,,Woodbridge Center,Woodbridge,NJ,83266.0,101639.0,51.15,56.96,11.54,24.58,18.87,49.69,30.0,45.3,20.43
-244,290,Acme - Woodcliff Lake #1069,41.04,-74.07,520 Chestnut Ridge Rd,,,Woodcliff Lake,NJ,161250.0,5868.0,47.67,89.83,2.66,6.51,1.57,49.54,,46.3,24.4
-245,291,Wyckoff,41.01,-74.17,325 Franklin Avenue,,,Wyckoff,NJ,147463.0,17231.0,47.07,92.51,0.59,5.2,3.4,44.07,28.0,44.9,25.53
-246,292,Woodrow Wilson Travel Plaza - N6,40.18,-74.63,"Mile post 57.8-North, NJ Turnpike",,,Hamilton,NJ,73415.0,89206.0,47.35,76.41,13.88,4.79,14.89,52.41,24.0,45.4,19.43
+,index,Name,Street1,Street2,Street3,City,CountrySubdivisionCode,Income,Population,Male Pop (%),White (%),Black (%),Asian (%),Hispanic (%),Employed (%),Travel Time to Work (mins),Median Age,Age <18 (%),Latitude,Longitude,target search add
+0,0,Galloway,405 S. Pitney Road,,Galloway Village Square Shopping Center,Absecon,NJ,63887.0,8370.0,47.93,79.86,8.69,6.38,7.42,46.31,,51.2,19.39,39.4621663,-74.49471609999999,"405 S. Pitney Road,Absecon,NJ"
+1,1,Acme - Allendale #1095,45 Demercurio Dr,,,Allendale,NJ,151875.0,6820.0,47.9,85.12,1.09,11.74,1.8,45.72,,47.8,28.04,41.0289552,-74.1281256,"45 Demercurio Dr,Allendale,NJ"
+2,2,Target Ocean T-1378,2331 State Route 66,,,Asbury Park,NJ,39324.0,15830.0,49.2,37.25,46.78,0.66,30.16,47.87,24.0,40.6,23.83,40.2313358,-74.0450675,"2331 State Route 66,Asbury Park,NJ"
+3,3,"Atlantic City, The Walk",120 North Michigan Avenue,,,Atlantic City,NJ,26006.0,39075.0,49.58,31.97,36.24,18.23,29.27,39.01,,41.7,25.21,39.360767,-74.43701779999999,"120 North Michigan Avenue,Atlantic City,NJ"
+4,4,Golden Nugget-Atlantic City,1 Castle Blvd,,,Atlantic City,NJ,26006.0,39075.0,49.58,31.97,36.24,18.23,29.27,39.01,,41.7,25.21,39.3784847,-74.4291306,"1 Castle Blvd,Atlantic City,NJ"
+5,5,Tropicana Marketplace,2831 Boardwalk,,,Atlantic City,NJ,26006.0,39075.0,49.58,31.97,36.24,18.23,29.27,39.01,,41.7,25.21,39.3523692,-74.4445618,"2831 Boardwalk,Atlantic City,NJ"
+6,6,Trump Taj Mahal-Atlantic City-Main,1000 Boardwalk at Virginia Ave,,,Atlantic City,NJ,26006.0,39075.0,49.58,31.97,36.24,18.23,29.27,39.01,,41.7,25.21,39.3599884,-74.42123529999999,"1000 Boardwalk at Virginia Ave,Atlantic City,NJ"
+7,7,Acme - Barnegat #7921,912 W Bay Ave,,,Barnegat,NJ,69877.0,22141.0,46.81,88.18,7.15,0.5,8.68,41.62,,48.9,21.07,39.7595923,-74.24645269999999,"912 W Bay Ave,Barnegat,NJ"
+8,8,Bernards-Riverwalk,655 Martinsville Road,,,Bernards,NJ,137855.0,27032.0,48.23,75.48,2.34,19.19,5.42,46.81,,45.9,27.19,40.6523937,-74.57657019999999,"655 Martinsville Road,Bernards,NJ"
+9,9,Stop & Shop - Bayonne #853,1 Lefante Way,,,Bayonne,NJ,56701.0,66719.0,49.61,65.7,11.11,8.97,29.6,46.7,34.0,43.2,22.26,40.667771,-74.1041829,"1 Lefante Way,Bayonne,NJ"
+10,10,Village at Bedminster,432 US Highway 202/206,,Village at Bedminster,Bedminster,NJ,104452.0,8244.0,46.24,88.88,1.36,7.04,7.08,62.6,,46.3,13.42,40.650104,-74.641595,"432 US Highway 202/206,Bedminster,NJ"
+11,11,NJ Monmouth Travel Plaza,"Garden State Pkwy, Mile Marker 100",,,Belmar,NJ,74942.0,5719.0,55.01,93.09,2.41,0.75,14.62,56.65,,47.7,13.34,40.1982323,-74.0990925,"Garden State Pkwy, Mile Marker 100,Belmar,NJ"
+12,12,Paramus Park Mall Center Court,700 Paramus Park,,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46,40.9566715,-74.0688646,"700 Paramus Park,Paramus,NJ"
+13,13,Bernardsville Center,80 Morristown Rd.,Unit 10,,Bernardsville,NJ,150635.0,7792.0,56.17,87.54,0.03,4.36,13.51,52.84,,44.5,25.13,40.7204005,-74.5636559,"80 Morristown Rd.,Bernardsville,NJ"
+14,14,Gloucester Premium Outlets,1125 S Black Horse Pike,Space 575,,Gloucester,NJ,73701.0,64034.0,48.75,73.69,15.5,4.1,6.86,53.75,28.0,42.4,20.97,39.7848715,-75.052824,"1125 S Black Horse Pike,Gloucester,NJ"
+15,15,Acme - Boonton #1582,550 Myrtle Avenue,,,Boonton,NJ,91055.0,8390.0,51.47,81.14,3.02,8.47,14.33,60.38,26.0,39.3,20.62,40.9086562,-74.39695739999999,"550 Myrtle Avenue,Boonton,NJ"
+16,17,Bordentown,282 Dunns Mill Road,,ACME Commons at Bordentown,Bordentown,NJ,85640.0,11808.0,47.7,75.52,8.55,10.39,7.1,51.19,,44.1,22.4,40.1326574,-74.7240365,"282 Dunns Mill Road,Bordentown,NJ"
+17,19,Branchburg,240 Raritan Valley College Drive,,Shoppes at Branchburg,Branchburg,NJ,129237.0,14683.0,47.97,85.96,4.79,8.29,3.3,55.24,,44.5,22.78,40.6053501,-74.6891225,"240 Raritan Valley College Drive,Branchburg,NJ"
+18,20,Whitehouse Station,531 Route 22 East #8,,,Branchburg,NJ,129237.0,14683.0,47.97,85.96,4.79,8.29,3.3,55.24,,44.5,22.78,,,"531 Route 22 East #8,Branchburg,NJ"
+19,21,Target Brick T-1153,570 Rte. 70 West,,,Brick,NJ,73051.0,75118.0,48.86,91.42,2.24,1.89,9.76,49.61,30.0,46.4,19.49,40.0578643,-74.1519311,"570 Rte. 70 West,Brick,NJ"
+20,22,Bridgewater Mall-Level 1 Side,400 Commons Way,2475,Bridgewater Commons,Bridgewater,NJ,122684.0,45336.0,48.48,70.75,2.9,22.64,9.24,50.82,29.0,45.7,23.12,40.5863872,-74.6199134,"400 Commons Way,Bridgewater,NJ"
+21,23,Target Bridgewater T-1224,200 Promenade Blvd,,,Bridgewater,NJ,122684.0,45336.0,48.48,70.75,2.9,22.64,9.24,50.82,29.0,45.7,23.12,40.5628086,-74.55273609999999,"200 Promenade Blvd,Bridgewater,NJ"
+22,24,The Village at Bridgewater Commons,610 Commons Way 4300,,The Village at Bridgewater Commons,Bridgewater,NJ,122684.0,45336.0,48.48,70.75,2.9,22.64,9.24,50.82,29.0,45.7,23.12,40.582956,-74.614864,"610 Commons Way 4300,Bridgewater,NJ"
+23,25,Target Burlington T-1158,2703 Route 541,,,Burlington,NJ,50709.0,9835.0,46.98,54.03,31.05,3.25,10.78,49.89,,43.4,21.21,40.0351084,-74.82228839999999,"2703 Route 541,Burlington,NJ"
+24,27,Rutgers U/Camden-Student Union,326 Penn St,,,Camden,NJ,26105.0,75550.0,47.92,21.22,45.4,3.18,48.48,34.89,23.0,32.0,31.42,39.948664,-75.12263,"326 Penn St,Camden,NJ"
+25,28,Cedar Knolls Hanover,178 Hanover Avenue,101,,Hanover,NJ,116020.0,14436.0,49.69,83.53,1.3,13.78,8.7,52.23,24.0,45.6,21.48,40.8134266,-74.4696416,"178 Hanover Avenue,Hanover,NJ"
+26,29,Chatham,640 Shunpike Rd.,,,Chatham,NJ,176364.0,10507.0,48.58,85.75,1.97,10.29,3.13,46.08,35.0,44.1,28.48,40.7465197,-74.4307395,"640 Shunpike Rd.,Chatham,NJ"
+27,31,480 Evesham Road,480 Evesham Road,,Short Hills Towne Centre,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08,39.8636437,-74.9652167,"480 Evesham Road,Cherry Hill,NJ"
+28,32,600 Route 38 Cherry Hill,600 Rt 38,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08,39.9367765,-75.0449379,"600 Rt 38,Cherry Hill,NJ"
+29,33,Chapel & Haddonfield,512 Haddonfield Road,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08,39.9333938,-75.03056219999999,"512 Haddonfield Road,Cherry Hill,NJ"
+30,34,Garden State Park,2026 Route 70 West,Suite A,Garden State Park,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08,39.9218643,-75.0372786,"2026 Route 70 West,Cherry Hill,NJ"
+31,35,Macy's - Cherry Hill Mall,2000 Route 38,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08,39.94086,-75.02570159999999,"2000 Route 38,Cherry Hill,NJ"
+32,36,NJ Walt Whitman Travel Plaza,NJPK MM 32.3,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08,39.8859353,-75.0026304,"NJPK MM 32.3,Cherry Hill,NJ"
+33,37,"Rt. 70 West, Cherry Hill",1192 East Rt. 70,#12,Kinko's Plaza,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08,39.8981861,-74.8632315,"1192 East Rt. 70,Cherry Hill,NJ"
+34,38,Target Cherry Hill T-1085,2137 SR-38,,,Cherry Hill,NJ,97069.0,71204.0,48.9,73.88,6.65,13.46,7.03,51.85,26.0,45.6,22.08,39.9360852,-75.02521469999999,"2137 SR-38,Cherry Hill,NJ"
+35,39,Chester Springs Shopping Center,537 Route 206 South,,Chester Springs Shopping Center,Chester,NJ,101375.0,1540.0,48.44,88.83,0.78,2.14,10.19,42.4,,46.6,25.45,40.779126,-74.695587,"537 Route 206 South,Chester,NJ"
+36,41,Target Clark T-1467,45 Central Ave,,,Clark,NJ,100192.0,15607.0,48.15,94.25,1.34,2.76,13.65,54.24,,43.7,20.13,40.6280099,-74.30797129999999,"45 Central Ave,Clark,NJ"
+37,42,1490 Blackwood-Clementon Road,1490 Blackwood-Clementon Rd.,Gloucester Township,Cherrywood Plaza,Clementon,NJ,52634.0,4933.0,45.69,67.77,27.87,0.0,12.79,45.19,,40.4,22.34,39.8028018,-75.041926,"1490 Blackwood-Clementon Rd.,Clementon,NJ"
+38,43,Clifton Route 3,360 Rt 3,,,Clifton,NJ,74963.0,86207.0,47.9,66.39,6.73,9.82,37.01,51.71,27.0,40.7,20.38,40.8299409,-74.13683019999999,"360 Rt 3,Clifton,NJ"
+39,44,Stop & Shop-Clifton #813,160 Kingsland Rd,,,Clifton,NJ,74963.0,86207.0,47.9,66.39,6.73,9.82,37.01,51.71,27.0,40.7,20.38,40.8258397,-74.13995059999999,"160 Kingsland Rd,Clifton,NJ"
+40,45,Closter,234 Closter Dock Road,,Heidenberg Plaza,Closter,NJ,130670.0,8710.0,49.4,59.25,3.86,35.98,7.38,46.7,,47.3,25.07,40.9724323,-73.9611011,"234 Closter Dock Road,Closter,NJ"
+41,46,Target Closter T-3235,6 Vervalan St,,,Closter,NJ,130670.0,8710.0,49.4,59.25,3.86,35.98,7.38,46.7,,47.3,25.07,40.9713681,-73.9573806,"6 Vervalan St,Closter,NJ"
+42,47,Molly Pitcher Adj Snackbar,MM-71.7 S New Jersey Tpke,,,Cranbury,NJ,138906.0,3844.0,52.89,78.67,6.01,12.12,4.92,46.75,,51.5,22.92,40.3215016,-74.488237,"MM-71.7 S New Jersey Tpke,Cranbury,NJ"
+43,48,NJ TP - Molly Pitcher Mobile Truck,New Jersey Turnpike,,,Cranbury,NJ,138906.0,3844.0,52.89,78.67,6.01,12.12,4.92,46.75,,51.5,22.92,40.30815450000001,-74.4924205,"New Jersey Turnpike,Cranbury,NJ"
+44,49,Stop & Shop-Monroe Township #810,1600 Perrineville Road,,,Cranbury,NJ,138906.0,3844.0,52.89,78.67,6.01,12.12,4.92,46.75,,51.5,22.92,40.3161248,-74.43985669999999,"1600 Perrineville Road,Cranbury,NJ"
+45,50,Cranford N Ave E - Drive Thru Only,345 N Ave E,,,Cranford,NJ,122848.0,23972.0,48.87,89.33,2.81,3.11,9.97,52.78,31.0,43.7,22.55,40.6581765,-74.29121839999999,"345 N Ave E,Cranford,NJ"
+46,51,Cranford Train Station,200 South Ave.,Suite 101,,Cranford,NJ,122848.0,23972.0,48.87,89.33,2.81,3.11,9.97,52.78,31.0,43.7,22.55,40.6523976,-74.3208041,"200 South Ave.,Cranford,NJ"
+47,52,Delran,1340 Fairview Boulevard,,Hartford Corners,Delran,NJ,94321.0,16747.0,49.31,82.14,9.6,4.98,2.25,53.56,,41.0,22.14,40.018863,-74.94454,"1340 Fairview Boulevard,Delran,NJ"
+48,53,Denville Plaza,2-28 West Main Street,,Denville Plaza,Denville,NJ,116078.0,16822.0,47.63,87.21,2.16,8.27,6.6,53.18,29.0,45.8,22.67,40.893432,-74.478741,"2-28 West Main Street,Denville,NJ"
+49,54,Route 10 Denville,3056 Route 10 West,,,Denville,NJ,116078.0,16822.0,47.63,87.21,2.16,8.27,6.6,53.18,29.0,45.8,22.67,40.8661795,-74.5063192,"3056 Route 10 West,Denville,NJ"
+50,55,Deptford Mall,1750 Deptford Center Road,KI08,,Deptford,NJ,67983.0,30556.0,47.29,74.04,13.75,5.92,7.43,51.52,26.0,44.9,20.13,39.8314319,-75.09782489999999,"1750 Deptford Center Road,Deptford,NJ"
+51,56,"Route 18 & Tices, East Brunswick",300 Route 18 North,,,East Brunswick,NJ,105959.0,48673.0,46.91,66.3,4.56,25.57,7.52,51.67,35.0,46.1,21.07,40.4564081,-74.3969074,"300 Route 18 North,East Brunswick,NJ"
+52,57,East Hanover - Rt 10,405 Route 10 East,,,East Hanover,NJ,121769.0,11241.0,46.16,84.18,0.82,13.04,14.45,50.14,,47.3,19.63,40.8011596,-74.360374,"405 Route 10 East,East Hanover,NJ"
+53,58,Target East Hanover T-1491,130 State Rte 10,,,East Hanover,NJ,121769.0,11241.0,46.16,84.18,0.82,13.04,14.45,50.14,,47.3,19.63,40.81592759999999,-74.39882930000002,"130 State Rte 10,East Hanover,NJ"
+54,59,NJ TP Vince Lombardi Travel Plaza,NJTP MM 116,,,Ridgefield Park,NJ,72191.0,13070.0,47.9,69.69,5.87,13.72,42.66,54.58,28.0,39.3,22.81,40.8227899,-74.02967869999999,"NJTP MM 116,Ridgefield Park,NJ"
+55,60,"East Rutherford, Rt. 17",10 State Route 17,,,East Rutherford,NJ,77400.0,9433.0,48.49,68.72,4.7,19.43,20.65,53.04,27.0,39.0,18.46,40.8313531,-74.08887229999999,"10 State Route 17,East Rutherford,NJ"
+56,61,Hilton Meadowlands,2 Meadowlands Plaza,,,East Rutherford,NJ,77400.0,9433.0,48.49,68.72,4.7,19.43,20.65,53.04,27.0,39.0,18.46,40.8051486,-74.0787538,"2 Meadowlands Plaza,East Rutherford,NJ"
+57,62,Eatontown,178 Route 35,,,Eatontown,NJ,66470.0,12258.0,47.75,73.87,10.72,8.34,13.57,52.91,22.0,46.2,19.0,40.29152819999999,-74.0535875,"178 Route 35,Eatontown,NJ"
+58,63,Edgewater,457 River Road,,Edgewater Commons,Edgewater,NJ,103505.0,12165.0,45.45,55.36,5.18,35.66,13.54,52.58,37.0,42.2,20.48,40.813139,-73.9846788,"457 River Road,Edgewater,NJ"
+59,64,Target Edgewater T-1263,543 River Rd,,,Edgewater,NJ,103505.0,12165.0,45.45,55.36,5.18,35.66,13.54,52.58,37.0,42.2,20.48,40.81413810000001,-73.9830259,"543 River Rd,Edgewater,NJ"
+60,65,Edison,1-11 Lincoln Highway,,Colonial Village,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24,40.5594467,-74.3400978,"1-11 Lincoln Highway,Edison,NJ"
+61,66,Macy's-Menlo Park #8,275 Menlo Park Mall,,,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24,40.5475279,-74.3357654,"275 Menlo Park Mall,Edison,NJ"
+62,67,Menlo Park Mall,100 Menol Park Dr.,,Menlo Park Mall,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24,40.5474822,-74.33577269999999,"100 Menol Park Dr.,Edison,NJ"
+63,68,Sheraton Edison,125 Raritan Center Pkwy,,,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24,40.5193292,-74.3408765,"125 Raritan Center Pkwy,Edison,NJ"
+64,69,Target Edison T-1055,100 Parsonage Rd,,,Edison,NJ,95622.0,102304.0,48.83,36.35,7.13,49.02,9.58,50.14,34.0,50.2,22.24,40.5520186,-74.3321696,"100 Parsonage Rd,Edison,NJ"
+65,70,Jersey Gardens Mall,651 Kapkowski Road,1456,Jersey Gardens,Elizabeth,NJ,45186.0,129363.0,49.8,46.63,19.16,1.79,64.11,48.2,25.0,37.3,26.2,40.6601883,-74.1713372,"651 Kapkowski Road,Elizabeth,NJ"
+66,71,Englewood,17 E. Palisades Avenue,,,Englewood,NJ,80670.0,28509.0,47.08,45.79,30.77,12.33,24.52,51.55,33.0,42.5,21.7,40.8937794,-73.9741185,"17 E. Palisades Avenue,Englewood,NJ"
+67,72,Marlton,300 State Route 73,Space A,,Evesham,NJ,94395.0,45489.0,48.46,85.71,4.97,6.08,4.7,55.11,27.0,43.9,21.03,39.8903095,-74.9239923,"300 State Route 73,Evesham,NJ"
+68,73,Target - Fairfield T-1175,632 US Highway 46,,,Fairfield,NJ,52602.0,6300.0,56.52,36.32,46.22,0.29,15.73,34.84,,43.5,19.05,40.8897001,-74.2720345,"632 US Highway 46,Fairfield,NJ"
+69,75,Fair Lawn Promanade,16-31 state route 208,,,Fair Lawn,NJ,109747.0,33447.0,47.55,81.94,1.64,13.25,13.68,52.96,29.0,45.4,21.77,40.9431067,-74.1287913,"16-31 state route 208,Fair Lawn,NJ"
+70,76,240 Route 202 - Flemington,240 Route 202,,,Flemington,NJ,60869.0,4650.0,48.92,72.86,1.89,13.96,33.27,48.8,,37.2,23.76,40.490306,-74.86165799999999,"240 Route 202,Flemington,NJ"
+71,77,Florham Park,184 Columbia Turnpike,,,Florham Park,NJ,123266.0,11792.0,47.18,83.75,4.27,10.85,6.65,53.12,,44.6,15.25,40.7899517,-74.3930374,"184 Columbia Turnpike,Florham Park,NJ"
+72,78,Forked River Travel Plaza-Gdn St. P,Garden State Parkway,Mile Marker 74.5,,Lacey,NJ,78649.0,28444.0,48.65,96.92,0.82,1.18,4.74,49.1,,44.3,20.52,39.8680325,-74.21781349999999,"Garden State Parkway,Lacey,NJ"
+73,79,Acme - Fort Lee #1065,2160 Lemoine Ave,,,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98,40.8560522,-73.96639019999999,"2160 Lemoine Ave,Fort Lee,NJ"
+74,80,Fort Lee - Linwood Plaza,136-38 Linwood Plaza,,Linwood Plaza Shopping Center,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98,40.8612935,-73.97044530000001,"136-38 Linwood Plaza,Fort Lee,NJ"
+75,81,"Fort Lee, Bergen Blvd.",1616 Bergen Blvd.,,,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98,40.85553580000001,-73.9830537,"1616 Bergen Blvd.,Fort Lee,NJ"
+76,82,"Fort Lee, Route 4 E",2215 SR-4 East,,,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98,40.86381739999999,-73.9752079,"2215 SR-4 East,Fort Lee,NJ"
+77,83,Lemoine Ave.,1605 Lemoine Ave.,,Whitman Plaza,Fort Lee,NJ,76578.0,37058.0,45.83,50.46,2.59,41.42,13.1,48.41,34.0,54.4,16.98,40.84928439999999,-73.9709274,"1605 Lemoine Ave.,Fort Lee,NJ"
+78,84,"Franklin, NJ",111 Rt. 23 South,,,Franklin,NJ,57232.0,4849.0,47.64,94.04,4.62,0.72,7.34,51.8,,43.1,20.97,41.1088992,-74.5808595,"111 Rt. 23 South,Franklin,NJ"
+79,89,Franklin Lakes,816 High Mountain Rd.,,Urban Farms Shopping Center,Franklin Lakes,NJ,155458.0,10953.0,49.69,85.34,1.78,8.49,7.62,46.32,,48.9,23.14,40.9952229,-74.2132768,"816 High Mountain Rd.,Franklin Lakes,NJ"
+80,90,Stop & Shop-Franklin #802,3333 Rt. 27,,,Franklin,NJ,57232.0,4849.0,47.64,94.04,4.62,0.72,7.34,51.8,,43.1,20.97,40.4294488,-74.5589589,"3333 Rt. 27,Franklin,NJ"
+81,95,Freehold,621 U.S Highway 9,,,Freehold,NJ,99827.0,35429.0,49.93,83.24,5.57,7.33,8.9,49.59,,42.6,22.14,40.2102494,-74.2576694,"621 U.S Highway 9,Freehold,NJ"
+82,97,Freehold (B&N),3981 US Highway 9,,,Freehold,NJ,99827.0,35429.0,49.93,83.24,5.57,7.33,8.9,49.59,,42.6,22.14,40.25783440000001,-74.2902585,"3981 US Highway 9,Freehold,NJ"
+83,99,Freehold Raceway Mall,3710 Route 9,,Freehold Raceway Mall,Freehold,NJ,99827.0,35429.0,49.93,83.24,5.57,7.33,8.9,49.59,,42.6,22.14,40.2528379,-74.30041779999999,"3710 Route 9,Freehold,NJ"
+84,101,Route 537 Freehold,11 Village Center Drive,,,Freehold,NJ,99827.0,35429.0,49.93,83.24,5.57,7.33,8.9,49.59,,42.6,22.14,40.240545,-74.3053817,"11 Village Center Drive,Freehold,NJ"
+85,103,Galloway Township,68 W. Jimmie Leeds Rd,B1,,Galloway,NJ,65000.0,37029.0,47.4,69.51,11.6,11.46,11.48,49.32,,40.6,19.28,39.4756408,-74.541319,"68 W. Jimmie Leeds Rd,Galloway,NJ"
+86,104,Gillette,977 Valley Road,,Valley Mall Shopping Center,Long Hill,NJ,133269.0,8763.0,49.18,92.72,0.78,4.84,4.28,53.41,,46.1,21.1,40.6683478,-74.4795832,"977 Valley Road,Long Hill,NJ"
+87,105,Glen Ridge,710 Bloomfield Ave.,,,Glen Ridge,NJ,196821.0,7668.0,47.95,82.26,7.37,5.75,11.2,48.54,,43.1,32.42,40.7973732,-74.201332,"710 Bloomfield Ave.,Glen Ridge,NJ"
+88,106,Glen Rock,224 Rock Road,,,Glen Rock,NJ,162443.0,11962.0,49.82,84.66,0.85,11.03,7.05,47.91,,42.3,28.52,40.962215,-74.1309007,"224 Rock Road,Glen Rock,NJ"
+89,107,"Green Brook, NJ",287 Route 22,,,Green Brook,NJ,136094.0,7210.0,48.02,69.02,5.85,24.62,11.79,56.52,,48.0,21.83,40.5909504,-74.4986505,"287 Route 22,Green Brook,NJ"
+90,108,Hackensack,360 Essex Street,,Sanzari Medical Arts Building,Hackensack,NJ,59277.0,44673.0,48.87,45.83,25.25,10.46,38.15,53.29,30.0,43.4,18.41,40.8841329,-74.058607,"360 Essex Street,Hackensack,NJ"
+91,109,Target Hackensack T-1330,630 Main St,,,Hackensack,NJ,59277.0,44673.0,48.87,45.83,25.25,10.46,38.15,53.29,30.0,43.4,18.41,40.8991912,-74.03900879999999,"630 Main St,Hackensack,NJ"
+92,110,"Hackettstown, NJ",1885 Route 57,,,Hackettstown,NJ,63940.0,9569.0,49.49,84.66,3.23,3.62,20.82,51.49,,38.5,21.47,40.8186943,-74.8399263,"1885 Route 57,Hackettstown,NJ"
+93,111,Target Washington Township T-2446,68 US Highway 46 W,,,Hackettstown,NJ,63940.0,9569.0,49.49,84.66,3.23,3.62,20.82,51.49,,38.5,21.47,40.8463517,-74.80903909999999,"68 US Highway 46 W,Hackettstown,NJ"
+94,112,Haddonfield,214-216 Kings Highway,,,Haddonfield,NJ,138920.0,11428.0,49.74,94.25,1.1,2.07,3.81,47.79,26.0,43.6,28.08,39.89784,-75.0316107,"214-216 Kings Highway,Haddonfield,NJ"
+95,113,Hamilton Trenton,1150 Whitehorse-Mercerville Road,,,Hamilton,NJ,73415.0,89206.0,47.35,76.41,13.88,4.79,14.89,52.41,24.0,45.4,19.43,40.2079061,-74.69481619999999,"1150 Whitehorse-Mercerville Road,Hamilton,NJ"
+96,115,Farley Travel Plaza,Atlantic City Expressway Mile Marker 20,,,Hammonton,NJ,68655.0,14557.0,48.67,82.83,2.89,1.39,20.64,48.28,,44.6,22.52,39.5507024,-74.73589450000001,"Atlantic City Expressway Mile Marker 20,Hammonton,NJ"
+97,116,Hasbrouck Heights,201-211 Route 17 South,,,Hasbrouck Heights,NJ,87800.0,12205.0,47.67,79.69,2.94,12.89,14.6,52.08,27.0,43.6,20.14,40.8567122,-74.07033969999999,"201-211 Route 17 South,Hasbrouck Heights,NJ"
+98,117,Hillsborough,601 Route 206 & 514,Suite #21,Nelsons Corner Shopping Center,Hillsborough,NJ,119542.0,39712.0,47.8,73.86,5.47,16.87,7.75,54.66,30.0,44.0,23.57,40.4999463,-74.6450248,"601 Route 206 & 514,Hillsborough,NJ"
+99,118,Hillsdale,126 Broadway,,,Hillsdale,NJ,124844.0,10520.0,48.96,86.7,1.63,8.43,8.9,50.65,31.0,45.6,25.04,41.0036496,-74.0405414,"126 Broadway,Hillsdale,NJ"
+100,119,Hoboken - 12th & Hudson,1205 N. Hudson Street,,The Shipyards at 12th & Hudson,Hoboken,NJ,127523.0,54117.0,50.34,82.91,2.72,9.29,16.22,66.4,37.0,31.8,13.55,40.7512091,-74.0253726,"1205 N. Hudson Street,Hoboken,NJ"
+101,120,"Hoboken, Washington St.",314  Washington Ave.,,,Hoboken,NJ,127523.0,54117.0,50.34,82.91,2.72,9.29,16.22,66.4,37.0,31.8,13.55,40.7406386,-74.0303582,"314  Washington Ave.,Hoboken,NJ"
+102,121,Newark St. Hoboken,51 Newark Street,,,Hoboken,NJ,127523.0,54117.0,50.34,82.91,2.72,9.29,16.22,66.4,37.0,31.8,13.55,40.73671179999999,-74.0303022,"51 Newark Street,Hoboken,NJ"
+103,122,Howell - Route 9,4701 Rte. 9 No.,Space T1B10,,Howell,NJ,100305.0,52076.0,48.96,87.01,3.87,5.2,9.61,52.11,,41.4,23.52,40.136337,-74.22393,"4701 Rte. 9 No.,Howell,NJ"
+104,123,Rt. 1 North Woodbridge,774 Route 1 N,,,Woodbridge,NJ,83266.0,101639.0,51.15,56.96,11.54,24.58,18.87,49.69,30.0,45.3,20.43,40.5634204,-74.2983919,"774 Route 1 N,Woodbridge,NJ"
+105,124,Grove Point,98 Christopher Columbus Drive,,,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87,40.7194207,-74.04169019999999,"98 Christopher Columbus Drive,Jersey City,NJ"
+106,125,Jersey City,111 Town Square Place,,,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87,40.726242,-74.0331798,"111 Town Square Place,Jersey City,NJ"
+107,126,"Jersey City, Exchange Place",15 Exchange Place,Suite 110,,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87,40.7160375,-74.03358089999999,"15 Exchange Place,Jersey City,NJ"
+108,127,Newport Mall,30 Mall Drive West,A-36,Newport Centre,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87,40.7273145,-74.0378613,"30 Mall Drive West,Jersey City,NJ"
+109,128,Target Jersey City T-1886,100 14th St,,,Jersey City,NJ,62739.0,265932.0,49.21,35.41,23.99,25.39,28.82,51.07,35.0,36.8,20.87,40.7326867,-74.0362548,"100 14th St,Jersey City,NJ"
+110,129,Acme - Kenilworth #1096,801 Kenilworth Blvd,,,Kenilworth,NJ,108281.0,8235.0,53.01,78.12,1.79,6.72,27.33,52.4,,46.6,21.55,40.6780468,-74.281517,"801 Kenilworth Blvd,Kenilworth,NJ"
+111,130,"Lakewood, NJ",1865 Route 70,,Lakewood Hilton Gardens Project,Lakewood,NJ,45321.0,99467.0,49.64,91.16,3.28,1.01,16.0,29.08,,19.3,46.97,40.0558083,-74.16484679999999,"1865 Route 70,Lakewood,NJ"
+112,131,Lawrenceville,2673 Main St,,,Lawrence,NJ,96529.0,33288.0,47.2,68.99,11.82,15.66,8.58,52.03,25.0,41.5,19.18,40.2979905,-74.72972899999999,"2673 Main St,Lawrence,NJ"
+113,133,Mercer Mall,301 Mercer Mall,,,Lawrence,NJ,96529.0,33288.0,47.2,68.99,11.82,15.66,8.58,52.03,25.0,41.5,19.18,40.297751,-74.68184699999999,"301 Mercer Mall,Lawrence,NJ"
+114,135,Quaker Bridge,150 Quaker Bridge Mall RD,2026,Quaker Bridge Mall,Lawrence,NJ,96529.0,33288.0,47.2,68.99,11.82,15.66,8.58,52.03,25.0,41.5,19.18,40.2910878,-74.68151910000002,"150 Quaker Bridge Mall RD,Lawrence,NJ"
+115,137,Rider University/Student Rec Center,2083 Lawrenceville Rd,,,Lawrence,NJ,96529.0,33288.0,47.2,68.99,11.82,15.66,8.58,52.03,25.0,41.5,19.18,40.2797219,-74.7368159,"2083 Lawrenceville Rd,Lawrence,NJ"
+116,139,Acme - Lincroft #7932,619 Newman Springs Road,,,Middletown,NJ,105035.0,65952.0,49.16,93.17,1.08,3.34,5.77,50.21,33.0,44.0,22.73,40.3321202,-74.1191327,"619 Newman Springs Road,Middletown,NJ"
+117,140,Linden,693 West Edgar Road,,Aviation Plaza at Linden,Linden,NJ,66538.0,42230.0,48.62,53.65,29.95,3.93,30.22,50.77,28.0,41.8,20.27,40.6195397,-74.2487627,"693 West Edgar Road,Linden,NJ"
+118,141,"Rte 46 W, Little Ferry",300 Route 46 West,,,Little Ferry,NJ,61341.0,10942.0,49.77,63.16,2.74,26.21,27.34,54.13,,43.5,15.44,40.8445424,-74.0106272,"300 Route 46 West,Little Ferry,NJ"
+119,142,Livingston,1 West Mt. Pleasant Avenue,,,Livingston,NJ,153381.0,29955.0,49.45,72.36,1.65,22.44,4.02,47.39,31.0,47.7,25.14,40.7955908,-74.3156253,"1 West Mt. Pleasant Avenue,Livingston,NJ"
+120,143,Madison,309 Main Street,,,Madison,NJ,127948.0,16080.0,46.97,84.98,4.12,6.73,9.64,48.33,,41.8,24.57,40.7490001,-74.39968309999999,"309 Main Street,Madison,NJ"
+121,144,Acme - Mahwah #1058,125 Franklin Tpke,,,Mahwah,NJ,107215.0,26581.0,46.47,80.09,3.28,13.19,8.75,50.8,27.0,45.0,18.68,41.0992549,-74.14473219999999,"125 Franklin Tpke,Mahwah,NJ"
+122,145,Target Stafford Township T-2392,209 Stafford Park Blvd,,,Stafford,NJ,76527.0,27012.0,49.86,93.39,2.54,1.33,6.66,48.94,,45.9,20.51,39.7103823,-74.283928,"209 Stafford Park Blvd,Stafford,NJ"
+123,146,Route 9 Manalapan,310 Route 9 North,,,Manalapan,NJ,109326.0,40096.0,47.63,88.31,1.21,8.11,5.9,47.57,39.0,44.8,23.65,40.308499,-74.303653,"310 Route 9 North,Manalapan,NJ"
+124,147,Margate NJ,8005 Ventnor Ave,,,Margate City,NJ,69896.0,6200.0,45.73,94.16,2.18,1.45,1.73,48.65,25.0,61.3,9.05,39.3300756,-74.4994861,"8005 Ventnor Ave,Margate City,NJ"
+125,148,Matawan,265 Main Street,,Main Street Village,Matawan,NJ,86149.0,8898.0,50.12,82.03,8.15,7.53,10.29,53.57,34.0,40.3,21.74,40.4092031,-74.23421069999999,"265 Main Street,Matawan,NJ"
+126,149,Mays Landing Wrangleboro,760 Consumer Square,,Wrangleboro Consumer Center,Hamilton,NJ,73415.0,89206.0,47.35,76.41,13.88,4.79,14.89,52.41,24.0,45.4,19.43,39.450245,-74.63687700000001,"760 Consumer Square,Hamilton,NJ"
+127,151,Medford,560 Stokes Road,,Ironstone Village Shoppes,Medford,NJ,113469.0,23353.0,49.07,91.84,2.15,2.45,3.41,49.96,,46.5,23.21,39.873393,-74.8132892,"560 Stokes Road,Medford,NJ"
+128,152,Rte 35-Middletown,2011 Route 35,,,Middletown,NJ,105035.0,65952.0,49.16,93.17,1.08,3.34,5.77,50.21,33.0,44.0,22.73,40.4106977,-74.13321739999999,"2011 Route 35,Middletown,NJ"
+129,153,Midland Park Shopping Center,85 Godwin Ave,,Midland Park Shopping Center,Midland Park,NJ,105313.0,7336.0,49.1,95.24,0.82,0.89,13.3,53.49,,43.2,23.81,40.9844468,-74.13927149999999,"85 Godwin Ave,Midland Park,NJ"
+130,154,Millburn,343 Millburn Avenue,,,Millburn,NJ,202862.0,20387.0,49.7,71.59,3.1,20.93,4.43,44.87,37.0,44.1,32.55,40.7239844,-74.3074515,"343 Millburn Avenue,Millburn,NJ"
+131,155,Joyce Kilmer Travel Plaza,"Milepost 78.7 NB, NJ Turnpike",,,Milltown,NJ,99704.0,7069.0,48.18,88.6,5.26,3.92,12.93,49.44,,43.5,23.03,40.416756,-74.443966,"Milepost 78.7 NB, NJ Turnpike,Milltown,NJ"
+132,156,Target Millville T-2170,2116 N 2nd St,,,Millville,NJ,49950.0,28235.0,48.87,74.18,19.02,1.61,17.22,42.67,,43.2,24.97,39.421381,-75.04479769999999,"2116 N 2nd St,Millville,NJ"
+133,157,Montclair - Church & South Park,40 South Park St,,The Siena,Montclair,NJ,113293.0,38572.0,46.78,65.08,24.7,3.3,9.85,51.48,35.0,40.4,25.59,40.8142721,-74.2201674,"40 South Park St,Montclair,NJ"
+134,158,Upper Montclair,572 Valley Road,,,Montclair,NJ,113293.0,38572.0,46.78,65.08,24.7,3.3,9.85,51.48,35.0,40.4,25.59,40.8396949,-74.2080048,"572 Valley Road,Montclair,NJ"
+135,159,NJ Montvale Travel Plaza.,Montvale Service Area mile 173 Garden St,,,Montvale,NJ,120060.0,8440.0,47.82,76.62,3.08,15.34,11.81,46.45,,46.3,23.85,41.04755189999999,-74.06679869999999,"Montvale Service Area mile 173 Garden St,Montvale,NJ"
+136,160,Moorestown Mall Kiosk,400 New Jersey 38,,,Moorestown,NJ,133902.0,20568.0,47.36,83.52,6.31,7.22,2.12,49.16,26.0,45.3,24.57,39.9445509,-74.9631586,"400 New Jersey 38,Moorestown,NJ"
+137,161,Moorestown-Wright's Hardware,41 East Main Street,,,Moorestown,NJ,133902.0,20568.0,47.36,83.52,6.31,7.22,2.12,49.16,26.0,45.3,24.57,39.9647864,-74.9451484,"41 East Main Street,Moorestown,NJ"
+138,162,"Rte 9, Marlboro",67 Route 9 South,,,Matawan,NJ,86149.0,8898.0,50.12,82.03,8.15,7.53,10.29,53.57,34.0,40.3,21.74,40.3539378,-74.30787959999999,"67 Route 9 South,Matawan,NJ"
+139,163,Stop & Shop-Morris Plains # 893,245 Littleton Road,,,Morris Plains,NJ,125229.0,5605.0,51.19,91.88,2.16,4.71,9.1,54.75,,43.6,21.12,40.8421439,-74.4633703,"245 Littleton Road,Morris Plains,NJ"
+140,164,Morristown Medical Ctr - Main Locat,100 Madison Ave,,,Morristown,NJ,92296.0,18833.0,50.8,73.14,9.09,6.09,32.7,64.46,,36.0,16.78,40.7896261,-74.4655683,"100 Madison Ave,Morristown,NJ"
+141,165,"Morristown, Park Place",40 Park Place,,,Morristown,NJ,92296.0,18833.0,50.8,73.14,9.09,6.09,32.7,64.46,,36.0,16.78,40.7961996,-74.4816409,"40 Park Place,Morristown,NJ"
+142,166,Mount Laurel Centerton Square,10 Centerton Road,Suite D,Centerton Square Shopping Center,Mount Laurel,NJ,92826.0,41795.0,47.3,77.84,8.81,8.97,4.44,52.55,28.0,46.0,21.0,39.969931,-74.9140305,"10 Centerton Road,Mount Laurel,NJ"
+143,167,NJ James Cooper Travel Plaza,5 Hartford Rd,,,Mount Laurel,NJ,92826.0,41795.0,47.3,77.84,8.81,8.97,4.44,52.55,28.0,46.0,21.0,39.9775095,-74.8954146,"5 Hartford Rd,Mount Laurel,NJ"
+144,168,Route 73 & Fellowship Road,550 Fellowship Road,,,Mount Laurel,NJ,92826.0,41795.0,47.3,77.84,8.81,8.97,4.44,52.55,28.0,46.0,21.0,39.9323807,-74.9592126,"550 Fellowship Road,Mount Laurel,NJ"
+145,169,Target Mount Laurel T-1917,4 Centerton Rd,,,Mount Laurel,NJ,92826.0,41795.0,47.3,77.84,8.81,8.97,4.44,52.55,28.0,46.0,21.0,39.9676245,-74.9147038,"4 Centerton Rd,Mount Laurel,NJ"
+146,170,Rt. 66 & S. Seaview Square Drive,2301 Rt 66,,,Neptune,NJ,67836.0,27728.0,48.92,54.36,35.22,2.92,8.59,50.83,,51.0,17.87,40.2285295,-74.0445289,"2301 Rt 66,Neptune,NJ"
+147,171,New Brunswick,391 George Street,,Kilmer Square,New Brunswick,NJ,38413.0,56792.0,48.89,66.19,13.96,9.74,52.99,38.66,25.0,23.4,23.59,40.4962516,-74.4439921,"391 George Street,New Brunswick,NJ"
+148,172,Rutgers University-The Yard,38 Colllege Ave.,,,New Brunswick,NJ,38413.0,56792.0,48.89,66.19,13.96,9.74,52.99,38.66,25.0,23.4,23.59,40.4992123,-74.4483723,"38 Colllege Ave.,New Brunswick,NJ"
+149,173,New Providence Village Center,1260 Springfield Avenue,,,New Providence,NJ,129638.0,12716.0,48.76,82.42,0.94,12.86,7.77,47.42,,41.8,27.37,40.70528119999999,-74.4045855,"1260 Springfield Avenue,New Providence,NJ"
+150,174,"EWR - Newark Concourse C, Space 86","Terminal C, Space 86",,,Newark,NJ,34826.0,282803.0,49.41,25.29,50.12,1.75,36.38,41.06,34.0,36.0,24.79,40.693811,-74.172319,"Terminal C, Space 86,Newark,NJ"
+151,175,"EWR - Newark Term C, Space B-50","Terminal C, Space B-50",,,Newark,NJ,34826.0,282803.0,49.41,25.29,50.12,1.75,36.38,41.06,34.0,36.0,24.79,40.6956658,-74.1773002,"Terminal C, Space B-50,Newark,NJ"
+152,176,Rutgers U/Newark Robeson Stdnt Ctr,350 Martin Luther King Blvd,,,Newark,NJ,34826.0,282803.0,49.41,25.29,50.12,1.75,36.38,41.06,34.0,36.0,24.79,40.7420724,-74.1761532,"350 Martin Luther King Blvd,Newark,NJ"
+153,177,Shoppes on Broad,Broad Street,,,Newark,NJ,34826.0,282803.0,49.41,25.29,50.12,1.75,36.38,41.06,34.0,36.0,24.79,40.738291,-74.1706767,"Broad Street,Newark,NJ"
+154,178,"North Bergen, River Rd.",7301 River Rd.,,,North Bergen,NJ,57269.0,63438.0,49.71,69.53,3.32,6.91,73.12,51.73,32.0,40.0,21.26,40.7926952,-73.998498,"7301 River Rd.,North Bergen,NJ"
+155,179,Target North Bergen Commons T-1865,7101 Tonnelle Ave,,,North Bergen,NJ,57269.0,63438.0,49.71,69.53,3.32,6.91,73.12,51.73,32.0,40.0,21.26,40.801539,-74.022117,"7101 Tonnelle Ave,North Bergen,NJ"
+156,180,"North Brunswick, NJ",522 Shoppes Boulevard,,Shoppes at North Brunswick,North Brunswick,NJ,88723.0,42591.0,48.45,50.62,18.78,24.96,19.47,50.31,32.0,37.7,21.92,40.4614818,-74.45726119999999,"522 Shoppes Boulevard,North Brunswick,NJ"
+157,181,Target North Brunswick T-2853,101 Grand Ave,,,North Brunswick,NJ,88723.0,42591.0,48.45,50.62,18.78,24.96,19.47,50.31,32.0,37.7,21.92,40.43536539999999,-74.5043963,"101 Grand Ave,North Brunswick,NJ"
+158,182,"Northvale, NJ",271B Livingston St.,,Daibes Square at Northvale,Northvale,NJ,92650.0,4872.0,50.47,68.72,2.16,26.09,9.85,52.26,,46.0,22.72,41.015424,-73.946192,"271B Livingston St.,Northvale,NJ"
+159,183,Nutley,483 Franklin Avenue,,,Nutley,NJ,93691.0,28829.0,47.28,79.8,2.98,11.55,15.74,53.2,30.0,42.9,20.59,40.8231942,-74.1561315,"483 Franklin Avenue,Nutley,NJ"
+160,184,Route 35 - Oakhurst,2100 Highway 35,,,Ocean,NJ,67288.0,8838.0,50.36,97.64,0.5,0.45,2.43,40.18,,56.0,13.82,40.2648139,-74.0425431,"2100 Highway 35,Ocean,NJ"
+161,186,Oakland,411 Rampo Valley Rd,,,Oakland,NJ,112944.0,13145.0,49.17,91.0,2.25,5.58,6.97,54.21,26.0,42.9,24.75,41.0269674,-74.239965,"411 Rampo Valley Rd,Oakland,NJ"
+162,187,"Ocean City, NJ - Asbury Ave.",1061 Asbury Ave,,,Ocean City,NJ,72715.0,11328.0,46.23,90.8,2.61,1.83,8.14,43.79,,56.0,19.14,39.2766161,-74.578846,"1061 Asbury Ave,Ocean City,NJ"
+163,188,Acme - Old Bridge #2827,3500 US-9,,,Old Bridge,NJ,88540.0,66880.0,48.57,75.13,6.98,13.7,13.52,54.6,34.0,43.4,20.24,40.3826979,-74.30943789999999,"3500 US-9,Old Bridge,NJ"
+164,189,Old Tappan,216 Old Tappan Road,,,Old Tappan,NJ,141185.0,5999.0,48.84,73.78,0.72,22.15,4.58,46.72,,49.1,23.35,41.0137933,-73.9837871,"216 Old Tappan Road,Old Tappan,NJ"
+165,190,Garden State Plaza - Lower level,1 Garden State Plaza,Space #9145,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46,40.9181658,-74.0762757,"1 Garden State Plaza,Paramus,NJ"
+166,191,Rt 17 South Paramus,177 Route 17 South,,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46,40.9329712,-74.0712736,"177 Route 17 South,Paramus,NJ"
+167,192,Rt. 4 - Paramus,65 Route 4 West,,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46,40.9198498,-74.06606409999999,"65 Route 4 West,Paramus,NJ"
+168,193,Rte 17N - Paramus,370 Route 17 N,,The Container Store Project,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46,40.9459839,-74.07104410000001,"370 Route 17 N,Paramus,NJ"
+169,194,Target Paramus T-2381,900 Bergen Town Center,,,Paramus,NJ,105114.0,26919.0,49.34,65.63,3.17,28.29,9.45,45.76,29.0,50.5,19.46,40.9163353,-74.06111469999999,"900 Bergen Town Center,Paramus,NJ"
+170,195,Park Ridge,191 Kinderkamack Road,,,Park Ridge,NJ,106875.0,8905.0,50.22,91.16,1.92,2.04,17.5,49.62,,46.6,23.14,41.0360984,-74.030368,"191 Kinderkamack Road,Park Ridge,NJ"
+171,196,Hopewell,800 A Denow Road,,,Pennington,NJ,121667.0,2591.0,46.82,92.36,2.2,1.81,3.55,48.75,,47.1,22.5,40.3008751,-74.7820703,"800 A Denow Road,Pennington,NJ"
+172,197,John Fenwick Travel Plaza,"Milepost 5.4 NB, NJ Turnpike",,,Penns Grove,NJ,37188.0,4917.0,52.8,48.67,35.65,1.28,36.85,37.81,19.0,32.8,27.6,39.695576,-75.3963,"Milepost 5.4 NB, NJ Turnpike,Penns Grove,NJ"
+173,198,NJ Clara Barton TP,NJTP Mile Marker 5.4 Southbound,,,Penns Grove,NJ,37188.0,4917.0,52.8,48.67,35.65,1.28,36.85,37.81,19.0,32.8,27.6,40.1764357,-74.6316598,"NJTP Mile Marker 5.4 Southbound,Penns Grove,NJ"
+174,199,Phillipsburg,1198 US Highway 22,,,Phillipsburg,NJ,49274.0,14540.0,48.5,80.13,11.2,1.38,13.33,48.24,,44.8,21.8,40.68532099999999,-75.1516655,"1198 US Highway 22,Phillipsburg,NJ"
+175,200,Stop & Shop - Phillipsburg #816,1278 US Hwy 22,,,Phillipsburg,NJ,49274.0,14540.0,48.5,80.13,11.2,1.38,13.33,48.24,,44.8,21.8,40.6782902,-75.14753429999999,"1278 US Hwy 22,Phillipsburg,NJ"
+176,201,Target Phillipsburg T-1464,1204 New Brunswick Ave,,,Phillipsburg,NJ,49274.0,14540.0,48.5,80.13,11.2,1.38,13.33,48.24,,44.8,21.8,40.67416679999999,-75.1342889,"1204 New Brunswick Ave,Phillipsburg,NJ"
+177,202,Piscataway,1364 Centennial Way,,Centennial Plaza,Piscataway,NJ,89617.0,57695.0,50.35,36.28,19.84,38.03,11.34,44.51,30.0,33.4,16.81,40.551276,-74.43646460000001,"1364 Centennial Way,Piscataway,NJ"
+178,203,Rutgers University Truck,110 Ethel Rd West,Suite B,,Piscataway,NJ,89617.0,57695.0,50.35,36.28,19.84,38.03,11.34,44.51,30.0,33.4,16.81,40.531627,-74.4288387,"110 Ethel Rd West,Piscataway,NJ"
+179,204,Rutgers University-Plaza at Livings,105 Joyce Kilmer Ave,#30,,Piscataway,NJ,89617.0,57695.0,50.35,36.28,19.84,38.03,11.34,44.51,30.0,33.4,16.81,40.5254276,-74.43759779999999,"105 Joyce Kilmer Ave,Piscataway,NJ"
+180,205,Absecon Travel Plaza - NJ Turnpike,Garden State Pkwy Mile Marker 41.3,,,Galloway,NJ,65000.0,37029.0,47.4,69.51,11.6,11.46,11.48,49.32,,40.6,19.28,39.471046,-74.52878,"Garden State Pkwy Mile Marker 41.3,Galloway,NJ"
+181,206,Pompton Lakes,45 Wanaque Avenue,,Pompton Lakes Town Square,Pompton Lakes,NJ,92952.0,11205.0,49.64,87.68,1.32,5.55,16.94,58.47,,42.1,19.34,41.00777679999999,-74.29286859999999,"45 Wanaque Avenue,Pompton Lakes,NJ"
+182,207,Princeton,100 Nassau Street,,,Princeton,NJ,,,,,,,,,,,,40.3500137,-74.6595074,"100 Nassau Street,Princeton,NJ"
+183,208,Princeton Market Fair,3535 Rt. 1 Ste. 426,,Princeton Market Fair,Princeton,NJ,,,,,,,,,,,,40.3150399,-74.6604222,"3535 Rt. 1 Ste. 426,Princeton,NJ"
+184,209,Franklin Square - Ramsey,561 North Franklin Turnpike,,Franklin Square,Ramsey,NJ,137768.0,15121.0,49.07,89.02,0.13,10.18,5.59,53.36,,46.6,24.31,41.0761145,-74.13892899999999,"561 North Franklin Turnpike,Ramsey,NJ"
+185,210,Ramsey Train Station,8 West Main Street,,,Ramsey,NJ,137768.0,15121.0,49.07,89.02,0.13,10.18,5.59,53.36,,46.6,24.31,41.0571297,-74.1439833,"8 West Main Street,Ramsey,NJ"
+186,211,Red Bank,4-6 White Street,,,Red Bank,NJ,75114.0,12220.0,48.8,61.73,13.4,2.25,36.66,58.17,27.0,41.8,20.81,40.3507392,-74.0657001,"4-6 White Street,Red Bank,NJ"
+187,212,Northeast Ridgewood,363 RT 17 South,,,Ridgewood,NJ,162011.0,25554.0,48.29,79.72,1.66,14.75,7.76,45.12,34.0,41.8,30.37,40.9814572,-74.0867614,"363 RT 17 South,Ridgewood,NJ"
+188,213,Ridgewood Downtown,193 E Ridgewood Ave,,,Ridgewood,NJ,162011.0,25554.0,48.29,79.72,1.66,14.75,7.76,45.12,34.0,41.8,30.37,40.9792442,-74.11547689999999,"193 E Ridgewood Ave,Ridgewood,NJ"
+189,214,Rio Grande,3301 Route 9 South,Unit T-1A,Rio Grande Shopping Center,Middle,NJ,62249.0,18623.0,48.91,83.17,11.83,1.34,5.99,45.51,21.0,46.1,19.26,39.0170498,-74.8741654,"3301 Route 9 South,Middle,NJ"
+190,215,Target Riverdale - T2247,94 SR-23,,,Riverdale,NJ,100602.0,4238.0,47.45,91.86,0.0,4.58,10.5,60.67,,41.2,17.7,40.99008389999999,-74.3248371,"94 SR-23,Riverdale,NJ"
+191,216,Target Delran T-2104,4000 Route 130,,,Riverside,NJ,60885.0,7969.0,53.08,77.6,13.58,1.56,11.96,54.51,,42.5,20.81,40.0109939,-74.96079379999999,"4000 Route 130,Riverside,NJ"
+192,217,Rockaway Townsquare Mall,301 Mt. Hope Avenue,,Rockaway Townsquare Mall,Rockaway,NJ,106599.0,24758.0,48.49,85.39,3.97,6.43,11.95,54.1,,45.1,20.72,40.9075589,-74.5539579,"301 Mt. Hope Avenue,Rockaway,NJ"
+193,219,"Rockaway, Ring Road",395 Mount Hope Avenue,300,,Rockaway,NJ,106599.0,24758.0,48.49,85.39,3.97,6.43,11.95,54.1,,45.1,20.72,40.9070298,-74.5480619,"395 Mount Hope Avenue,Rockaway,NJ"
+194,221,Target Rockaway T-1864,381 Mt. Hope Ave,,,Rockaway,NJ,106599.0,24758.0,48.49,85.39,3.97,6.43,11.95,54.1,,45.1,20.72,40.9060159,-74.5600592,"381 Mt. Hope Ave,Rockaway,NJ"
+195,223,Roseland,43 Eisenhower Parkway,,Eagle Rock Plaza,Roseland,NJ,110208.0,5907.0,46.81,85.29,0.0,10.16,7.33,51.18,,50.4,20.03,40.8214943,-74.32802219999999,"43 Eisenhower Parkway,Roseland,NJ"
+196,224,96 Meadow Road,96 Meadow Road,,,Rutherford,NJ,93787.0,18622.0,48.16,74.28,2.28,17.54,16.8,52.27,31.0,43.6,20.56,40.8227653,-74.1007109,"96 Meadow Road,Rutherford,NJ"
+197,225,Sea Girt,2150 Highway 35,#E-18,Brook 35 Plaza,Sea Girt,NJ,126667.0,1714.0,50.29,99.77,0.18,0.06,2.39,39.67,,58.8,14.18,40.1380271,-74.0616819,"2150 Highway 35,Sea Girt,NJ"
+198,226,NJ Alexander Hamilton Travel Plaza,"NJ Turnpike, Milemarker 111.6 S",,,Secaucus,NJ,99883.0,19279.0,48.65,61.47,3.06,30.06,16.88,52.17,30.0,46.5,18.9,40.769983,-74.065173,"NJ Turnpike, Milemarker 111.6 S,Secaucus,NJ"
+199,227,"Secaucus, Harmon Meadow",700 Plaza Drive,,The Plaza at the Meadows,Secaucus,NJ,99883.0,19279.0,48.65,61.47,3.06,30.06,16.88,52.17,30.0,46.5,18.9,40.787551,-74.045812,"700 Plaza Drive,Secaucus,NJ"
+200,228,Sewell Washington Center,304 Greentree Road,,Washington Center,Mantua,NJ,93601.0,15110.0,46.27,93.61,2.68,2.57,3.23,53.96,,43.5,22.91,39.7500755,-75.0765598,"304 Greentree Road,Mantua,NJ"
+201,229,Target Mantua T-2384,675 Woodbury Glassboro Rd,,,Mantua,NJ,93601.0,15110.0,46.27,93.61,2.68,2.57,3.23,53.96,,43.5,22.91,39.76458780000001,-75.1313698,"675 Woodbury Glassboro Rd,Mantua,NJ"
+202,230,The Mall at Short Hills,1200 Morris Turnpike,,The Mall at Short Hills,Millburn,NJ,202862.0,20387.0,49.7,71.59,3.1,20.93,4.43,44.87,37.0,44.1,32.55,40.7408743,-74.3642457,"1200 Morris Turnpike,Millburn,NJ"
+203,231,Shrewsbury,551 Route 35,,The Grove,Shrewsbury,NJ,122321.0,4051.0,44.31,96.94,0.59,1.58,1.78,45.79,,46.4,25.72,40.3332923,-74.0615838,"551 Route 35,Shrewsbury,NJ"
+204,233,"Sicklerville, NJ",611 Berlin Cross Keys Rd.,,,Winslow,NJ,76640.0,39317.0,49.13,53.43,35.73,2.37,10.65,50.16,33.0,42.9,23.79,39.7356836,-75.00829329999999,"611 Berlin Cross Keys Rd.,Winslow,NJ"
+205,234,Target Gloucester T-2181,1615 Berlin Cross Keys Rd,,,Winslow,NJ,76640.0,39317.0,49.13,53.43,35.73,2.37,10.65,50.16,33.0,42.9,23.79,39.747435,-74.99421099999999,"1615 Berlin Cross Keys Rd,Winslow,NJ"
+206,235,Somers Point,55 Bethel Road,,Ocean Heights Plaza,Somers Point,NJ,52397.0,10644.0,45.02,77.39,13.8,5.67,10.7,50.94,,45.8,21.35,39.3311673,-74.59509109999999,"55 Bethel Road,Somers Point,NJ"
+207,236,Somerset,120 Cedar Grove Lane,,Cedar Grove Shopping Center,Franklin,NJ,57232.0,4849.0,47.64,94.04,4.62,0.72,7.34,51.8,,43.1,20.97,40.5215248,-74.5213283,"120 Cedar Grove Lane,Franklin,NJ"
+208,241,Somerville Town Ctr.,"145 W. Main St, unit A-1",Unit A1,,Somerville,NJ,72731.0,12234.0,50.23,71.08,9.6,11.24,21.78,53.83,,39.3,19.57,40.5691873,-74.615887,"145 W. Main St, unit A-1,Somerville,NJ"
+209,242,Cheesequake Travel Plaza,Garden State Parkway Mile Post 124,PO Box 307,,South Amboy,NJ,65074.0,8811.0,51.84,88.12,5.95,3.72,13.74,52.08,29.0,46.5,16.87,40.466341,-74.289289,"Garden State Parkway Mile Post 124,South Amboy,NJ"
+210,243,"Sayreville, NJ",957 Route 9 N,,,South Amboy,NJ,65074.0,8811.0,51.84,88.12,5.95,3.72,13.74,52.08,29.0,46.5,16.87,40.46216889999999,-74.2952177,"957 Route 9 N,South Amboy,NJ"
+211,244,Target South Brunswick NJ T-2256,4190 Rt 1 N,,,South Brunswick,NJ,113815.0,45602.0,48.98,44.81,8.99,42.34,6.84,51.27,36.0,47.2,25.8,40.3808926,-74.57604959999999,"4190 Rt 1 N,South Brunswick,NJ"
+212,245,South Orange,11 Sloan Street,,,South Orange Village,NJ,121637.0,16503.0,48.32,63.52,26.6,5.04,6.56,48.21,33.0,34.2,20.44,40.745752,-74.2605277,"11 Sloan Street,South Orange Village,NJ"
+213,246,Target South Plainfield T-1929,5000 Hadley Center Dr,,,South Plainfield,NJ,91889.0,24154.0,49.88,61.9,11.16,16.88,16.51,51.83,30.0,45.2,21.26,40.5481466,-74.4265485,"5000 Hadley Center Dr,South Plainfield,NJ"
+214,247,Acme - Wall Township #780,2007 Route 35,,,Spring Lake,NJ,88679.0,2980.0,51.51,99.4,0.0,0.6,0.0,42.48,,55.6,20.5,40.1533698,-74.05538059999999,"2007 Route 35,Spring Lake,NJ"
+215,248,Summit,2 Beechwood Road,,,Summit,NJ,132443.0,22155.0,49.29,81.2,3.53,7.72,15.6,46.88,31.0,40.6,28.6,40.7170907,-74.3578007,"2 Beechwood Road,Summit,NJ"
+216,249,Jersey Shore Premium Outlets,1 Premium Outlet Blvd.,,,Tinton Falls,NJ,79206.0,17902.0,44.89,79.26,8.84,5.5,5.07,48.73,,52.4,18.27,40.2243495,-74.0948707,"1 Premium Outlet Blvd.,Tinton Falls,NJ"
+217,250,Ocean County Mall,1201 HOOPER AVE,1072,Ocean County Mall,Toms River,NJ,76051.0,91415.0,48.5,88.23,3.2,4.19,8.35,48.26,,46.1,20.74,39.9804225,-74.17923139999999,"1201 HOOPER AVE,Toms River,NJ"
+218,251,Stop & Shop-Toms River #811,353 Route 37 East,,,Toms River,NJ,76051.0,91415.0,48.5,88.23,3.2,4.19,8.35,48.26,,46.1,20.74,39.9582017,-74.1720825,"353 Route 37 East,Toms River,NJ"
+219,252,Toms River Route 9,2360 Lakewood Rd,,,Toms River,NJ,76051.0,91415.0,48.5,88.23,3.2,4.19,8.35,48.26,,46.1,20.74,40.04480960000001,-74.2241174,"2360 Lakewood Rd,Toms River,NJ"
+220,253,Richard Stockton Travel Plaza,200 Uncle Petes Rd,,,Trenton,NJ,35524.0,84867.0,51.38,39.62,50.48,1.43,35.96,40.45,24.0,35.3,25.18,40.17796209999999,-74.6311681,"200 Uncle Petes Rd,Trenton,NJ"
+221,254,5340 Route 42 Turnersville,5340 Route 42,,,Washington,NJ,91149.0,48119.0,48.4,87.04,5.55,4.44,3.92,51.29,30.0,42.7,21.42,39.75499,-75.04659699999999,"5340 Route 42,Washington,NJ"
+222,260,Target Turnersville T-1132,4001 Black Horse Pike,,,Washington,NJ,91149.0,48119.0,48.4,87.04,5.55,4.44,3.92,51.29,30.0,42.7,21.42,39.7327433,-75.0397582,"4001 Black Horse Pike,Washington,NJ"
+223,266,Kean University-Thompson Library,1000 Morris Ave,,,Union,NJ,79324.0,58499.0,48.31,49.04,30.6,10.41,16.34,51.51,29.0,47.6,18.22,40.6764579,-74.2284791,"1000 Morris Ave,Union,NJ"
+224,268,Rt. 22 - Center Island,2698 Route 22 East,,,Union,NJ,79324.0,58499.0,48.31,49.04,30.6,10.41,16.34,51.51,29.0,47.6,18.22,40.6887724,-74.3071921,"2698 Route 22 East,Union,NJ"
+225,270,Target Union T-2141,2235 Springfield Ave,,,Union,NJ,79324.0,58499.0,48.31,49.04,30.6,10.41,16.34,51.51,29.0,47.6,18.22,40.7170884,-74.2855479,"2235 Springfield Ave,Union,NJ"
+226,272,Acme - Vernon #2820,530 CR-515,,,Vernon,NJ,90805.0,22572.0,48.99,93.23,2.48,0.6,9.66,55.6,,44.2,20.38,41.1949089,-74.48306029999999,"530 CR-515,Vernon,NJ"
+227,273,Vineland Cumberland Mall,3849 S. Delsea Road,Space #A0013,Cumberland Mall,Vineland,NJ,51113.0,60824.0,46.94,69.68,14.37,1.37,39.06,44.75,,41.7,23.65,39.4318915,-75.03796539999999,"3849 S. Delsea Road,Vineland,NJ"
+228,274,"Cedar Hill Shopping Center,Voorhees",148 Route 73,,Cedar Hill Shopping Center,Voorhees,NJ,85199.0,29386.0,48.59,66.72,10.33,19.2,4.39,45.72,30.0,48.1,20.26,39.8349607,-74.9251701,"148 Route 73,Voorhees,NJ"
+229,275,Warren,4 Mount Bethel Rd,,,Warren,NJ,154647.0,15998.0,48.73,78.87,0.79,18.11,5.67,48.57,30.0,47.4,22.77,40.6162946,-74.4943925,"4 Mount Bethel Rd,Warren,NJ"
+230,276,Target Watchung,1515 US Highway 22,,,Watchung,NJ,121678.0,5961.0,46.87,80.07,1.04,14.86,13.22,43.05,,44.4,24.14,40.64043220000001,-74.4225373,"1515 US Highway 22,Watchung,NJ"
+231,277,Berdan Ave & Hamburg Turnpike,1118 Hamburg Turnpike,,,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51,40.9607283,-74.240186,"1118 Hamburg Turnpike,Wayne,NJ"
+232,278,Macy's - Willowbrook,1100 Willowbrook Blvd,,Willowbrook Mall,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51,40.8874524,-74.254992,"1100 Willowbrook Blvd,Wayne,NJ"
+233,279,Paterson-Hamburg Tpke - Wayne,183 Hamburg Turnpike,,,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51,40.9447034,-74.2050466,"183 Hamburg Turnpike,Wayne,NJ"
+234,280,Wayne Rt. 23,1606 Route 23 North,,,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51,40.9391421,-74.26898589999999,"1606 Route 23 North,Wayne,NJ"
+235,281,Wayne West Belt Plaza,57 state route 23,,,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51,40.8899432,-74.25026679999999,"57 state route 23,Wayne,NJ"
+236,282,Willowbrook Mall Food Court,1400 Willowbrook Mall,,Willowbrook Mall,Wayne,NJ,108092.0,55154.0,47.17,87.06,1.79,8.2,12.06,49.6,28.0,44.5,20.51,40.8887069,-74.2593816,"1400 Willowbrook Mall,Wayne,NJ"
+237,283,West Caldwell,546 Passaic Ave.,,,West Caldwell,NJ,105931.0,10932.0,46.53,90.92,1.2,7.02,5.31,49.35,27.0,46.5,20.02,40.8488896,-74.296948,"546 Passaic Ave.,West Caldwell,NJ"
+238,284,West New York,55-1 Riverwalk Place,,,West New York,NJ,50477.0,53345.0,49.82,59.53,3.39,6.2,76.95,51.22,36.0,36.4,20.9,40.782952,-74.0071569,"55-1 Riverwalk Place,West New York,NJ"
+239,285,Westfield,117 Central Avenue,,,Westfield,NJ,159923.0,30591.0,47.75,85.27,3.48,6.28,7.6,47.46,37.0,42.6,28.92,40.6520818,-74.3469368,"117 Central Avenue,Westfield,NJ"
+240,286,Westwood Avenue,102 Westwood Avenue,104,Meisel Building,Westwood,NJ,95685.0,11246.0,46.51,78.53,6.89,8.8,16.57,52.86,,43.4,22.88,40.9920857,-74.0316888,"102 Westwood Avenue,Westwood,NJ"
+241,287,NJ Grover Cleveland Travel Plaza,Mile Marker 92.9,,,Woodbridge,NJ,83266.0,101639.0,51.15,56.96,11.54,24.58,18.87,49.69,30.0,45.3,20.43,40.556982,-74.2632034,"Mile Marker 92.9,Woodbridge,NJ"
+242,288,Thomas Edison Travel Plza,"New Jersey Turnpike, Mile Post 92.9 S",,,Woodbridge,NJ,83266.0,101639.0,51.15,56.96,11.54,24.58,18.87,49.69,30.0,45.3,20.43,40.55995650000001,-74.26459849999999,"New Jersey Turnpike, Mile Post 92.9 S,Woodbridge,NJ"
+243,289,Woodbridge Mall,250 Woodbridge Center Drive,,Woodbridge Center,Woodbridge,NJ,83266.0,101639.0,51.15,56.96,11.54,24.58,18.87,49.69,30.0,45.3,20.43,40.55594860000001,-74.3015106,"250 Woodbridge Center Drive,Woodbridge,NJ"
+244,290,Acme - Woodcliff Lake #1069,520 Chestnut Ridge Rd,,,Woodcliff Lake,NJ,161250.0,5868.0,47.67,89.83,2.66,6.51,1.57,49.54,,46.3,24.4,41.0430812,-74.0709523,"520 Chestnut Ridge Rd,Woodcliff Lake,NJ"
+245,291,Wyckoff,325 Franklin Avenue,,,Wyckoff,NJ,147463.0,17231.0,47.07,92.51,0.59,5.2,3.4,44.07,28.0,44.9,25.53,41.0116048,-74.1677595,"325 Franklin Avenue,Wyckoff,NJ"
+246,292,Woodrow Wilson Travel Plaza - N6,"Mile post 57.8-North, NJ Turnpike",,,Hamilton,NJ,73415.0,89206.0,47.35,76.41,13.88,4.79,14.89,52.41,24.0,45.4,19.43,40.1773554,-74.6309009,"Mile post 57.8-North, NJ Turnpike,Hamilton,NJ"
