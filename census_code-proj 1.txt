@@ -1,0 +1,29 @@
+mydata['city'] = mydata.index
+mydata = mydata.reset_index()
+
+cities = []
+clean = []
+length = len(mydata['city'])
+for i in range (0,length):
+    cities.append(str(mydata['city'].to_list()[i]).split(',')[0])
+for i in cities:
+    end = (len(i.split(' ')))
+    i = (i.split(' ')[:end-1])
+    clean.append(" ".join(i))
+    
+df = pd.DataFrame({"City": [],"Income":[],"Population":[], "Male Pop (%)":[],
+                   "White (%)":[],"Black (%)":[],"Asian (%)":[],"Hispanic (%)":[],
+                   "Employed (%)":[], "Travel Time to Work (mins)":[],
+                  "Median Age":[], "Age <18 (%)":[]})
+df['City'] = clean
+df['Income'] = mydata["B19013_001E"]
+df['Population'] = mydata['B01003_001E']
+df['Male Pop (%)'] = ((mydata['B01001_002E'])/(mydata['B01003_001E'])*100).round(2)
+df["White (%)"] = ((mydata['B01001A_001E'])/(mydata['B01003_001E'])*100).round(2)
+df["Black (%)"] = ((mydata['B01001B_001E'])/(mydata['B01003_001E'])*100).round(2)
+df["Asian (%)"] = ((mydata['B01001D_001E'])/(mydata['B01003_001E'])*100).round(2)
+df["Hispanic (%)"] = ((mydata['B01001I_001E'])/(mydata['B01003_001E'])*100).round(2)
+df["Employed (%)"] = ((mydata['B23025_004E'])/(mydata['B01003_001E'])*100).round(2)
+df['Median Age'] = mydata['B01002A_001E']
+df['Age <18 (%)'] = ((mydata['B09001_001E'])/(mydata['B01003_001E'])*100).round(2)
+df["Travel Time to Work (mins)"] = ((mydata['B08136_001E'])/(mydata['B23025_004E'])).round(0)
